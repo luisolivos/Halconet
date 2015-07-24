@@ -1,0 +1,264 @@
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Pagos\bin\Debug\Pagos.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Pagos\bin\Debug\Pagos.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Pagos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Pagos\obj\Debug\Pagos.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Pagos\obj\Debug\Pagos.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Pagos\obj\Debug\Pagos.PagosProveedores.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Pagos\obj\Debug\Pagos.Properties.Resources.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Pagos\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Pagos\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Pagos\obj\Debug\Pagos.dll.licenses
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Pagos\bin\Debug\ClasesSGUV.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Pagos\bin\Debug\ClasesSGUV.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Pagos\obj\Debug\Pagos.ReportesHalcoNET.Logs.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Pagos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Pagos\obj\Debug\Pagos.PagosProveedores.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Pagos\obj\Debug\Pagos.Properties.Resources.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Pagos\obj\Debug\Pagos.ReportesHalcoNET.Logs.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Pagos\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Pagos\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Pagos\obj\Debug\Pagos.dll.licenses
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Pagos\obj\Debug\Pagos.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Pagos\bin\Debug\Pagos.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Pagos\bin\Debug\Pagos.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Pagos\bin\Debug\ClasesSGUV.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Pagos\bin\Debug\ClasesSGUV.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Pagos\obj\Debug\Pagos.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Pagos\bin\Debug\Pagos.dll.config
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Pagos\bin\Debug\Pagos.dll.config
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Pagos\bin\Debug\Pagos.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Pagos\bin\Debug\Pagos.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Pagos\bin\Debug\ClasesSGUV.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Pagos\bin\Debug\ClasesSGUV.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Pagos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Pagos\obj\Debug\Pagos.PagosProveedores.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Pagos\obj\Debug\Pagos.Properties.Resources.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Pagos\obj\Debug\Pagos.ReportesHalcoNET.Logs.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Pagos\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Pagos\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Pagos\obj\Debug\Pagos.dll.licenses
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Pagos\obj\Debug\Pagos.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Pagos\obj\Debug\Pagos.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Pagos\bin\Debug\itextsharp.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Pagos\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Pagos\bin\Debug\Pagos.dll.config
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Pagos\bin\Debug\Pagos.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Pagos\bin\Debug\Pagos.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Pagos\bin\Debug\ClasesSGUV.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Pagos\bin\Debug\itextsharp.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Pagos\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Pagos\bin\Debug\ClasesSGUV.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Pagos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Pagos\obj\Debug\Pagos.PagosProveedores.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Pagos\obj\Debug\Pagos.Properties.Resources.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Pagos\obj\Debug\Pagos.ReportesHalcoNET.Logs.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Pagos\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Pagos\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Pagos\obj\Debug\Pagos.dll.licenses
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Pagos\obj\Debug\Pagos.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Pagos\obj\Debug\Pagos.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Pagos\obj\Debug\Pagos.ReporteAutorizado.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Pagos\obj\Debug\Pagos.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Pagos\obj\Debug\Pagos.PagosProveedores.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Pagos\obj\Debug\Pagos.Properties.Resources.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Pagos\obj\Debug\Pagos.ReporteAutorizado.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Pagos\obj\Debug\Pagos.ReportesHalcoNET.Logs.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Pagos\obj\Debug\Pagos.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Pagos\obj\Debug\Pagos.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Pagos\obj\Debug\Pagos.pdb
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Pagos\bin\Debug\Pagos.dll.config
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Pagos\bin\Debug\Pagos.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Pagos\bin\Debug\Pagos.pdb
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Pagos\bin\Debug\ClasesSGUV.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Pagos\bin\Debug\itextsharp.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Pagos\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Pagos\bin\Debug\ClasesSGUV.pdb
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Pagos\bin\Debug\Pagos.dll.config
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Pagos\bin\Debug\Pagos.dll
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Pagos\bin\Debug\Pagos.pdb
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Pagos\bin\Debug\ClasesSGUV.dll
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Pagos\bin\Debug\itextsharp.dll
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Pagos\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Pagos\bin\Debug\ClasesSGUV.pdb
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Pagos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Pagos\obj\Debug\Pagos.PagosProveedores.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Pagos\obj\Debug\Pagos.Properties.Resources.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Pagos\obj\Debug\Pagos.ReporteAutorizado.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Pagos\obj\Debug\Pagos.ReportesHalcoNET.Logs.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Pagos\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Pagos\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Pagos\obj\Debug\Pagos.dll
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Pagos\obj\Debug\Pagos.pdb
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Pagos\obj\Debug\Pagos.TemplatePagosProv.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Pagos\bin\Debug\Pagos.dll.config
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Pagos\bin\Debug\Pagos.dll
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Pagos\bin\Debug\Pagos.pdb
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Pagos\bin\Debug\ClasesSGUV.dll
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Pagos\bin\Debug\itextsharp.dll
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Pagos\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Pagos\bin\Debug\ClasesSGUV.pdb
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Pagos\obj\Debug\Pagos.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Pagos\obj\Debug\Pagos.PagosProveedores.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Pagos\obj\Debug\Pagos.Properties.Resources.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Pagos\obj\Debug\Pagos.ReporteAutorizado.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Pagos\obj\Debug\Pagos.ReportesHalcoNET.Logs.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Pagos\obj\Debug\Pagos.TemplatePagosProv.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Pagos\obj\Debug\Pagos.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Pagos\obj\Debug\Pagos.dll
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Pagos\obj\Debug\Pagos.pdb
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Pagos\obj\Debug\Pagos.TemplatePagosProv.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Pagos\bin\Debug\Pagos.dll.config
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Pagos\bin\Debug\Pagos.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Pagos\bin\Debug\Pagos.pdb
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Pagos\bin\Debug\ClasesSGUV.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Pagos\bin\Debug\itextsharp.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Pagos\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Pagos\bin\Debug\ClasesSGUV.pdb
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Pagos\obj\Debug\Pagos.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Pagos\obj\Debug\Pagos.PagosProveedores.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Pagos\obj\Debug\Pagos.Properties.Resources.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Pagos\obj\Debug\Pagos.ReporteAutorizado.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Pagos\obj\Debug\Pagos.ReportesHalcoNET.Logs.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Pagos\obj\Debug\Pagos.TemplatePagosProv.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Pagos\obj\Debug\Pagos.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Pagos\obj\Debug\Pagos.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Pagos\obj\Debug\Pagos.pdb
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Pagos\obj\Debug\Pagos.PagosEfectuados.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Pagos\obj\Debug\Pagos.PagosCorte.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Pagos\bin\Debug\Pagos.dll.config
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Pagos\bin\Debug\Pagos.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Pagos\bin\Debug\Pagos.pdb
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Pagos\bin\Debug\ClasesSGUV.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Pagos\bin\Debug\itextsharp.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Pagos\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Pagos\bin\Debug\ClasesSGUV.pdb
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Pagos\obj\Debug\Pagos.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Pagos\obj\Debug\Pagos.PagosCorte.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Pagos\obj\Debug\Pagos.PagosEfectuados.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Pagos\obj\Debug\Pagos.PagosProveedores.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Pagos\obj\Debug\Pagos.Properties.Resources.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Pagos\obj\Debug\Pagos.ReporteAutorizado.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Pagos\obj\Debug\Pagos.ReportesHalcoNET.Logs.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Pagos\obj\Debug\Pagos.TemplatePagosProv.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Pagos\obj\Debug\Pagos.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Pagos\obj\Debug\Pagos.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Pagos\obj\Debug\Pagos.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Pagos\bin\Debug\Pagos.dll.config
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Pagos\bin\Debug\Pagos.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Pagos\bin\Debug\Pagos.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Pagos\bin\Debug\ClasesSGUV.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Pagos\bin\Debug\itextsharp.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Pagos\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Pagos\bin\Debug\ClasesSGUV.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Pagos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Pagos\obj\Debug\Pagos.PagosCorte.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Pagos\obj\Debug\Pagos.PagosEfectuados.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Pagos\obj\Debug\Pagos.PagosProveedores.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Pagos\obj\Debug\Pagos.Properties.Resources.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Pagos\obj\Debug\Pagos.ReporteAutorizado.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Pagos\obj\Debug\Pagos.ReportesHalcoNET.Logs.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Pagos\obj\Debug\Pagos.TemplatePagosProv.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Pagos\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Pagos\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Pagos\obj\Debug\Pagos.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Pagos\obj\Debug\Pagos.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Pagos\bin\Debug\Pagos.dll.config
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Pagos\bin\Debug\Pagos.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Pagos\bin\Debug\Pagos.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Pagos\bin\Debug\ClasesSGUV.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Pagos\bin\Debug\itextsharp.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Pagos\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Pagos\bin\Debug\ClasesSGUV.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Pagos\obj\Debug\Pagos.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Pagos\obj\Debug\Pagos.PagosCorte.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Pagos\obj\Debug\Pagos.PagosEfectuados.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Pagos\obj\Debug\Pagos.PagosProveedores.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Pagos\obj\Debug\Pagos.Properties.Resources.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Pagos\obj\Debug\Pagos.ReporteAutorizado.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Pagos\obj\Debug\Pagos.ReportesHalcoNET.Logs.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Pagos\obj\Debug\Pagos.TemplatePagosProv.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Pagos\obj\Debug\Pagos.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Pagos\obj\Debug\Pagos.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Pagos\obj\Debug\Pagos.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Pagos\obj\Debug\Pagos.frmCreditosProvedor.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Pagos\obj\Debug\Pagos.frmCreditosProvedorReporte.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Pagos\bin\Debug\Pagos.dll.config
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Pagos\bin\Debug\Pagos.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Pagos\bin\Debug\Pagos.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Pagos\bin\Debug\ClasesSGUV.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Pagos\bin\Debug\itextsharp.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Pagos\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Pagos\bin\Debug\ClasesSGUV.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Pagos\obj\Debug\Pagos.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Pagos\obj\Debug\Pagos.frmCreditosProvedor.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Pagos\obj\Debug\Pagos.frmCreditosProvedorReporte.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Pagos\obj\Debug\Pagos.PagosCorte.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Pagos\obj\Debug\Pagos.PagosEfectuados.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Pagos\obj\Debug\Pagos.PagosProveedores.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Pagos\obj\Debug\Pagos.Properties.Resources.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Pagos\obj\Debug\Pagos.ReporteAutorizado.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Pagos\obj\Debug\Pagos.ReportesHalcoNET.Logs.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Pagos\obj\Debug\Pagos.TemplatePagosProv.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Pagos\obj\Debug\Pagos.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Pagos\obj\Debug\Pagos.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Pagos\obj\Debug\Pagos.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Pagos\bin\Debug\Pagos.dll.config
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Pagos\bin\Debug\Pagos.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Pagos\bin\Debug\Pagos.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Pagos\bin\Debug\ClasesSGUV.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Pagos\bin\Debug\itextsharp.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Pagos\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Pagos\bin\Debug\ClasesSGUV.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Pagos\obj\Debug\Pagos.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Pagos\obj\Debug\Pagos.frmCreditosProvedor.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Pagos\obj\Debug\Pagos.frmCreditosProvedorReporte.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Pagos\obj\Debug\Pagos.PagosCorte.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Pagos\obj\Debug\Pagos.PagosEfectuados.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Pagos\obj\Debug\Pagos.PagosProveedores.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Pagos\obj\Debug\Pagos.Properties.Resources.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Pagos\obj\Debug\Pagos.ReporteAutorizado.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Pagos\obj\Debug\Pagos.ReportesHalcoNET.Logs.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Pagos\obj\Debug\Pagos.TemplatePagosProv.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Pagos\obj\Debug\Pagos.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Pagos\obj\Debug\Pagos.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Pagos\obj\Debug\Pagos.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Pagos\bin\Debug\Pagos.dll.config
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Pagos\bin\Debug\Pagos.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Pagos\bin\Debug\Pagos.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Pagos\bin\Debug\ClasesSGUV.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Pagos\bin\Debug\itextsharp.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Pagos\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Pagos\bin\Debug\ClasesSGUV.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Pagos\obj\Debug\Pagos.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Pagos\obj\Debug\Pagos.frmCreditosProvedor.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Pagos\obj\Debug\Pagos.frmCreditosProvedorReporte.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Pagos\obj\Debug\Pagos.PagosCorte.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Pagos\obj\Debug\Pagos.PagosEfectuados.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Pagos\obj\Debug\Pagos.PagosProveedores.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Pagos\obj\Debug\Pagos.Properties.Resources.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Pagos\obj\Debug\Pagos.ReporteAutorizado.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Pagos\obj\Debug\Pagos.ReportesHalcoNET.Logs.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Pagos\obj\Debug\Pagos.TemplatePagosProv.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Pagos\obj\Debug\Pagos.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Pagos\obj\Debug\Pagos.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Pagos\obj\Debug\Pagos.pdb
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Pagos\bin\Debug\Pagos.dll.config
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Pagos\bin\Debug\Pagos.dll
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Pagos\bin\Debug\Pagos.pdb
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Pagos\bin\Debug\ClasesSGUV.dll
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Pagos\bin\Debug\itextsharp.dll
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Pagos\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Pagos\bin\Debug\ClasesSGUV.pdb
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Pagos\obj\Debug\Pagos.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Pagos\obj\Debug\Pagos.frmCreditosProvedor.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Pagos\obj\Debug\Pagos.frmCreditosProvedorReporte.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Pagos\obj\Debug\Pagos.PagosCorte.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Pagos\obj\Debug\Pagos.PagosEfectuados.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Pagos\obj\Debug\Pagos.PagosProveedores.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Pagos\obj\Debug\Pagos.Properties.Resources.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Pagos\obj\Debug\Pagos.ReporteAutorizado.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Pagos\obj\Debug\Pagos.ReportesHalcoNET.Logs.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Pagos\obj\Debug\Pagos.TemplatePagosProv.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Pagos\obj\Debug\Pagos.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Pagos\obj\Debug\Pagos.dll
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Pagos\obj\Debug\Pagos.pdb

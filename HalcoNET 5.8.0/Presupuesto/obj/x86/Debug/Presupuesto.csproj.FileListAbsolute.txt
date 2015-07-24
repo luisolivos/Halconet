@@ -1,0 +1,632 @@
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado\Ventas\Presupuesto\bin\Debug\Presupuesto.exe
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado\Ventas\Presupuesto\bin\Debug\Presupuesto.pdb
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado\Ventas\Presupuesto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.csproj.ResolveComReference.cache
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.Comentarios.resources
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.ComentariosGlobal.resources
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.FormDetalle.resources
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.frmPresupuesto.resources
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.Properties.Resources.resources
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado\Ventas\Presupuesto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado\Ventas\Presupuesto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.exe
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.pdb
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado - copia\Ventas\Presupuesto\bin\Debug\Presupuesto.exe.config
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado - copia\Ventas\Presupuesto\bin\Debug\Presupuesto.exe
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado - copia\Ventas\Presupuesto\bin\Debug\Presupuesto.pdb
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado - copia\Ventas\Presupuesto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado - copia\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.csproj.ResolveComReference.cache
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado - copia\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.Comentarios.resources
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado - copia\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.ComentariosGlobal.resources
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado - copia\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.FormDetalle.resources
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado - copia\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.frmPresupuesto.resources
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado - copia\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.Properties.Resources.resources
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado - copia\Ventas\Presupuesto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado - copia\Ventas\Presupuesto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado - copia\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.exe
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado - copia\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.pdb
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5\Ventas\Presupuesto\bin\Debug\Presupuesto.exe.config
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5\Ventas\Presupuesto\bin\Debug\Presupuesto.exe
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5\Ventas\Presupuesto\bin\Debug\Presupuesto.pdb
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5\Ventas\Presupuesto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.csproj.ResolveComReference.cache
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.Comentarios.resources
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.ComentariosGlobal.resources
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.FormDetalle.resources
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.frmPresupuesto.resources
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.Properties.Resources.resources
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5\Ventas\Presupuesto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5\Ventas\Presupuesto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.exe
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.pdb
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5.3\Ventas\Presupuesto\bin\Debug\Presupuesto.exe.config
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5.3\Ventas\Presupuesto\bin\Debug\Presupuesto.exe
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5.3\Ventas\Presupuesto\bin\Debug\Presupuesto.pdb
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5.3\Ventas\Presupuesto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5.3\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.csproj.ResolveComReference.cache
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5.3\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.Comentarios.resources
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5.3\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.ComentariosGlobal.resources
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5.3\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.FormDetalle.resources
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5.3\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.frmPresupuesto.resources
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5.3\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.Properties.Resources.resources
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5.3\Ventas\Presupuesto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5.3\Ventas\Presupuesto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5.3\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.exe
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5.3\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.pdb
+\\192.168.2.159\Reportes Facturas\VentasOK v4.5.3\Ventas\Presupuesto\bin\Debug\Presupuesto.exe.config
+\\192.168.2.159\Reportes Facturas\VentasOK v4.5.3\Ventas\Presupuesto\bin\Debug\Presupuesto.exe
+\\192.168.2.159\Reportes Facturas\VentasOK v4.5.3\Ventas\Presupuesto\bin\Debug\Presupuesto.pdb
+\\192.168.2.159\Reportes Facturas\VentasOK v4.5.3\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.csproj.ResolveComReference.cache
+\\192.168.2.159\Reportes Facturas\VentasOK v4.5.3\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.Comentarios.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.5.3\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.ComentariosGlobal.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.5.3\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.FormDetalle.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.5.3\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.frmPresupuesto.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.5.3\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.Properties.Resources.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.5.3\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.csproj.GenerateResource.Cache
+\\192.168.2.159\Reportes Facturas\VentasOK v4.5.3\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.exe
+\\192.168.2.159\Reportes Facturas\VentasOK v4.5.3\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.pdb
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.5.3\Ventas\Presupuesto\bin\Debug\Presupuesto.exe.config
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.5.3\Ventas\Presupuesto\bin\Debug\Presupuesto.exe
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.5.3\Ventas\Presupuesto\bin\Debug\Presupuesto.pdb
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.5.3\Ventas\Presupuesto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.5.3\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.csproj.ResolveComReference.cache
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.5.3\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.Comentarios.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.5.3\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.ComentariosGlobal.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.5.3\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.FormDetalle.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.5.3\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.frmPresupuesto.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.5.3\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.Properties.Resources.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.5.3\Ventas\Presupuesto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.5.3\Ventas\Presupuesto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.5.3\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.exe
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.5.3\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.pdb
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6\Ventas\Presupuesto\bin\Debug\Presupuesto.exe.config
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6\Ventas\Presupuesto\bin\Debug\Presupuesto.exe
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6\Ventas\Presupuesto\bin\Debug\Presupuesto.pdb
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.csprojResolveAssemblyReference.cache
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.csproj.ResolveComReference.cache
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.Comentarios.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.ComentariosGlobal.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.FormDetalle.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.frmPresupuesto.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.Properties.Resources.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.csproj.GenerateResource.Cache
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.exe
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.pdb
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6\Ventas\Presupuesto\bin\Debug\Presupuesto.exe.config
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6\Ventas\Presupuesto\bin\Debug\Presupuesto.exe
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6\Ventas\Presupuesto\bin\Debug\Presupuesto.pdb
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6\Ventas\Presupuesto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.csproj.ResolveComReference.cache
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.Comentarios.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.ComentariosGlobal.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.FormDetalle.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.frmPresupuesto.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.Properties.Resources.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6\Ventas\Presupuesto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6\Ventas\Presupuesto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.exe
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.pdb
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1\Ventas\Presupuesto\bin\Debug\Presupuesto.exe.config
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1\Ventas\Presupuesto\bin\Debug\Presupuesto.exe
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1\Ventas\Presupuesto\bin\Debug\Presupuesto.pdb
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.csproj.ResolveComReference.cache
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.Comentarios.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.ComentariosGlobal.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.FormDetalle.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.frmPresupuesto.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.Properties.Resources.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.csproj.GenerateResource.Cache
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.exe
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.pdb
+\\DESARROLLO-PJ\Reportes Facturas\VentasOK v4.6.1\Ventas\Presupuesto\bin\Debug\Presupuesto.exe.config
+\\DESARROLLO-PJ\Reportes Facturas\VentasOK v4.6.1\Ventas\Presupuesto\bin\Debug\Presupuesto.exe
+\\DESARROLLO-PJ\Reportes Facturas\VentasOK v4.6.1\Ventas\Presupuesto\bin\Debug\Presupuesto.pdb
+\\DESARROLLO-PJ\Reportes Facturas\VentasOK v4.6.1\Ventas\Presupuesto\obj\x86\Debug\ResolveAssemblyReference.cache
+\\DESARROLLO-PJ\Reportes Facturas\VentasOK v4.6.1\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.csproj.ResolveComReference.cache
+\\DESARROLLO-PJ\Reportes Facturas\VentasOK v4.6.1\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.Comentarios.resources
+\\DESARROLLO-PJ\Reportes Facturas\VentasOK v4.6.1\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.ComentariosGlobal.resources
+\\DESARROLLO-PJ\Reportes Facturas\VentasOK v4.6.1\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.FormDetalle.resources
+\\DESARROLLO-PJ\Reportes Facturas\VentasOK v4.6.1\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.frmPresupuesto.resources
+\\DESARROLLO-PJ\Reportes Facturas\VentasOK v4.6.1\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.Properties.Resources.resources
+\\DESARROLLO-PJ\Reportes Facturas\VentasOK v4.6.1\Ventas\Presupuesto\obj\x86\Debug\GenerateResource.read.1.tlog
+\\DESARROLLO-PJ\Reportes Facturas\VentasOK v4.6.1\Ventas\Presupuesto\obj\x86\Debug\GenerateResource.write.1.tlog
+\\DESARROLLO-PJ\Reportes Facturas\VentasOK v4.6.1\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.exe
+\\DESARROLLO-PJ\Reportes Facturas\VentasOK v4.6.1\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.pdb
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Presupuesto\bin\Debug\Presupuesto.exe.config
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Presupuesto\bin\Debug\Presupuesto.exe
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Presupuesto\bin\Debug\Presupuesto.pdb
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Presupuesto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.csproj.ResolveComReference.cache
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.Comentarios.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.ComentariosGlobal.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.EstadoResultados.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.FormDetalle.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.frmPresupuesto.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.Properties.Resources.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Presupuesto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Presupuesto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.exe
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.pdb
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Presupuesto\bin\Debug\Presupuesto.exe.config
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Presupuesto\bin\Debug\Presupuesto.exe
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Presupuesto\bin\Debug\Presupuesto.pdb
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.csprojResolveAssemblyReference.cache
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.csproj.ResolveComReference.cache
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.Comentarios.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.ComentariosGlobal.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.EstadoResultados.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.FormDetalle.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.frmPresupuesto.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.Properties.Resources.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.csproj.GenerateResource.Cache
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.exe
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.pdb
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Presupuesto\bin\Debug\Presupuesto.exe.config
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Presupuesto\bin\Debug\Presupuesto.exe
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Presupuesto\bin\Debug\Presupuesto.pdb
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Presupuesto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.csproj.ResolveComReference.cache
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.Comentarios.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.ComentariosGlobal.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.EstadoResultados.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.FormDetalle.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.frmPresupuesto.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.Properties.Resources.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Presupuesto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Presupuesto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.exe
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.pdb
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Presupuesto\bin\Debug\Presupuesto.dll.config
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Presupuesto\bin\Debug\Presupuesto.dll
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Presupuesto\bin\Debug\Presupuesto.pdb
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Presupuesto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.csproj.ResolveComReference.cache
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.Comentarios.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.ComentariosGlobal.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.EstadoResultados.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.FormDetalle.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.frmPresupuesto.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.Properties.Resources.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Presupuesto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Presupuesto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.dll
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.pdb
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Presupuesto\bin\Debug\Presupuesto.dll.config
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Presupuesto\bin\Debug\Presupuesto.dll
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Presupuesto\bin\Debug\Presupuesto.pdb
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Presupuesto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.csproj.ResolveComReference.cache
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.Comentarios.resources
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.ComentariosGlobal.resources
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.Form1.resources
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.FormDetalle.resources
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.frmPresupuesto.resources
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.Properties.Resources.resources
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.RepNomina.resources
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Presupuesto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Presupuesto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.dll
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.pdb
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Presupuesto\obj\x86\Debug\Presupuesto.EdoResultados.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Presupuesto\bin\Debug\Presupuesto.dll.config
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Presupuesto\bin\Debug\Presupuesto.dll
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Presupuesto\bin\Debug\Presupuesto.pdb
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Presupuesto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Presupuesto\obj\x86\Debug\Presupuesto.csproj.ResolveComReference.cache
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Presupuesto\obj\x86\Debug\Presupuesto.Comentarios.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Presupuesto\obj\x86\Debug\Presupuesto.ComentariosGlobal.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Presupuesto\obj\x86\Debug\Presupuesto.EdoResultados.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Presupuesto\obj\x86\Debug\Presupuesto.Form1.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Presupuesto\obj\x86\Debug\Presupuesto.FormDetalle.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Presupuesto\obj\x86\Debug\Presupuesto.frmPresupuesto.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Presupuesto\obj\x86\Debug\Presupuesto.Properties.Resources.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Presupuesto\obj\x86\Debug\Presupuesto.RepNomina.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Presupuesto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Presupuesto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Presupuesto\obj\x86\Debug\Presupuesto.dll
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Presupuesto\obj\x86\Debug\Presupuesto.pdb
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Presupuesto\bin\Debug\ClasesSGUV.dll
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Presupuesto\bin\Debug\ClasesSGUV.pdb
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Presupuesto\obj\x86\Debug\Presupuesto.EstadoResultados.CargarDatos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Presupuesto\bin\Debug\Presupuesto.dll.config
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Presupuesto\bin\Debug\Presupuesto.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Presupuesto\bin\Debug\Presupuesto.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Presupuesto\bin\Debug\ClasesSGUV.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Presupuesto\bin\Debug\ClasesSGUV.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Presupuesto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Presupuesto\obj\x86\Debug\Presupuesto.csproj.ResolveComReference.cache
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Presupuesto\obj\x86\Debug\Presupuesto.Comentarios.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Presupuesto\obj\x86\Debug\Presupuesto.ComentariosGlobal.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Presupuesto\obj\x86\Debug\Presupuesto.EstadoResultados.CargarDatos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Presupuesto\obj\x86\Debug\Presupuesto.EdoResultados.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Presupuesto\obj\x86\Debug\Presupuesto.Form1.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Presupuesto\obj\x86\Debug\Presupuesto.FormDetalle.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Presupuesto\obj\x86\Debug\Presupuesto.frmPresupuesto.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Presupuesto\obj\x86\Debug\Presupuesto.Properties.Resources.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Presupuesto\obj\x86\Debug\Presupuesto.RepNomina.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Presupuesto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Presupuesto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Presupuesto\obj\x86\Debug\Presupuesto.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Presupuesto\obj\x86\Debug\Presupuesto.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Presupuesto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Presupuesto\obj\x86\Debug\Presupuesto.csproj.ResolveComReference.cache
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Presupuesto\obj\x86\Debug\Presupuesto.Comentarios.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Presupuesto\obj\x86\Debug\Presupuesto.ComentariosGlobal.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Presupuesto\obj\x86\Debug\Presupuesto.EstadoResultados.CargarDatos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Presupuesto\obj\x86\Debug\Presupuesto.EdoResultados.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Presupuesto\obj\x86\Debug\Presupuesto.Form1.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Presupuesto\obj\x86\Debug\Presupuesto.FormDetalle.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Presupuesto\obj\x86\Debug\Presupuesto.frmPresupuesto.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Presupuesto\obj\x86\Debug\Presupuesto.RepNomina.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Presupuesto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Presupuesto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Presupuesto\obj\x86\Debug\Presupuesto.Properties.Resources.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Presupuesto\bin\Debug\Presupuesto.dll.config
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Presupuesto\bin\Debug\Presupuesto.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Presupuesto\bin\Debug\Presupuesto.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Presupuesto\bin\Debug\ClasesSGUV.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Presupuesto\bin\Debug\ClasesSGUV.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Presupuesto\obj\x86\Debug\Presupuesto.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Presupuesto\obj\x86\Debug\Presupuesto.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Presupuesto\obj\x86\Debug\Presupuesto.AuditoriaPresupuesto.ComentariosDetalle.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Presupuesto\bin\Debug\Presupuesto.dll.config
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Presupuesto\bin\Debug\Presupuesto.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Presupuesto\bin\Debug\Presupuesto.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Presupuesto\bin\Debug\ClasesSGUV.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Presupuesto\bin\Debug\ClasesSGUV.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Presupuesto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Presupuesto\obj\x86\Debug\Presupuesto.csproj.ResolveComReference.cache
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Presupuesto\obj\x86\Debug\Presupuesto.Comentarios.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Presupuesto\obj\x86\Debug\Presupuesto.AuditoriaPresupuesto.ComentariosDetalle.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Presupuesto\obj\x86\Debug\Presupuesto.ComentariosGlobal.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Presupuesto\obj\x86\Debug\Presupuesto.EstadoResultados.CargarDatos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Presupuesto\obj\x86\Debug\Presupuesto.EdoResultados.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Presupuesto\obj\x86\Debug\Presupuesto.Form1.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Presupuesto\obj\x86\Debug\Presupuesto.FormDetalle.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Presupuesto\obj\x86\Debug\Presupuesto.frmPresupuesto.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Presupuesto\obj\x86\Debug\Presupuesto.Properties.Resources.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Presupuesto\obj\x86\Debug\Presupuesto.RepNomina.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Presupuesto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Presupuesto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Presupuesto\obj\x86\Debug\Presupuesto.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Presupuesto\obj\x86\Debug\Presupuesto.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Presupuesto\bin\Debug\Presupuesto.dll.config
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Presupuesto\bin\Debug\Presupuesto.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Presupuesto\bin\Debug\Presupuesto.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Presupuesto\bin\Debug\ClasesSGUV.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Presupuesto\bin\Debug\ClasesSGUV.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Presupuesto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Presupuesto\obj\x86\Debug\Presupuesto.csproj.ResolveComReference.cache
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Presupuesto\obj\x86\Debug\Presupuesto.Comentarios.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Presupuesto\obj\x86\Debug\Presupuesto.AuditoriaPresupuesto.ComentariosDetalle.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Presupuesto\obj\x86\Debug\Presupuesto.ComentariosGlobal.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Presupuesto\obj\x86\Debug\Presupuesto.EstadoResultados.CargarDatos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Presupuesto\obj\x86\Debug\Presupuesto.EdoResultados.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Presupuesto\obj\x86\Debug\Presupuesto.Form1.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Presupuesto\obj\x86\Debug\Presupuesto.FormDetalle.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Presupuesto\obj\x86\Debug\Presupuesto.frmPresupuesto.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Presupuesto\obj\x86\Debug\Presupuesto.Properties.Resources.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Presupuesto\obj\x86\Debug\Presupuesto.RepNomina.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Presupuesto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Presupuesto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Presupuesto\obj\x86\Debug\Presupuesto.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Presupuesto\obj\x86\Debug\Presupuesto.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Presupuesto\obj\x86\Debug\Presupuesto.Comisiones.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Presupuesto\bin\Debug\itextsharp.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Presupuesto\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Presupuesto\bin\Debug\Presupuesto.dll.config
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Presupuesto\bin\Debug\Presupuesto.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Presupuesto\bin\Debug\Presupuesto.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Presupuesto\bin\Debug\ClasesSGUV.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Presupuesto\bin\Debug\itextsharp.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Presupuesto\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Presupuesto\bin\Debug\ClasesSGUV.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.csproj.ResolveComReference.cache
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.Comentarios.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.AuditoriaPresupuesto.ComentariosDetalle.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.ComentariosGlobal.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.Comisiones.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.EstadoResultados.CargarDatos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.EdoResultados.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.Form1.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.FormDetalle.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.frmPresupuesto.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.Properties.Resources.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.RepNomina.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.pdb
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Presupuesto\bin\Debug\Presupuesto.dll.config
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Presupuesto\bin\Debug\Presupuesto.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Presupuesto\bin\Debug\Presupuesto.pdb
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Presupuesto\bin\Debug\ClasesSGUV.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Presupuesto\bin\Debug\itextsharp.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Presupuesto\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Presupuesto\bin\Debug\ClasesSGUV.pdb
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.csproj.ResolveComReference.cache
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.Comentarios.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.AuditoriaPresupuesto.ComentariosDetalle.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.ComentariosGlobal.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.Comisiones.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.EstadoResultados.CargarDatos.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.EdoResultados.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.Form1.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.FormDetalle.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.frmPresupuesto.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.Properties.Resources.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.RepNomina.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.pdb
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Presupuesto\bin\Debug\Presupuesto.dll.config
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Presupuesto\bin\Debug\Presupuesto.dll
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Presupuesto\bin\Debug\Presupuesto.pdb
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Presupuesto\bin\Debug\ClasesSGUV.dll
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Presupuesto\bin\Debug\itextsharp.dll
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Presupuesto\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Presupuesto\bin\Debug\ClasesSGUV.pdb
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.csproj.ResolveComReference.cache
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.Comentarios.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.AuditoriaPresupuesto.ComentariosDetalle.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.ComentariosGlobal.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.Comisiones.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.EstadoResultados.CargarDatos.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.EdoResultados.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.Form1.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.FormDetalle.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.frmPresupuesto.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.Properties.Resources.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.RepNomina.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.dll
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.pdb
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Presupuesto\bin\Debug\Presupuesto.dll.config
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Presupuesto\bin\Debug\Presupuesto.dll
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Presupuesto\bin\Debug\Presupuesto.pdb
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Presupuesto\bin\Debug\ClasesSGUV.dll
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Presupuesto\bin\Debug\itextsharp.dll
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Presupuesto\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Presupuesto\bin\Debug\ClasesSGUV.pdb
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.csproj.ResolveComReference.cache
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.Comentarios.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.AuditoriaPresupuesto.ComentariosDetalle.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.ComentariosGlobal.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.Comisiones.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.EstadoResultados.CargarDatos.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.EdoResultados.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.Form1.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.FormDetalle.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.frmPresupuesto.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.Properties.Resources.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.RepNomina.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.dll
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Presupuesto\obj\x86\Debug\Presupuesto.pdb
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Presupuesto\bin\Debug\Presupuesto.dll.config
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Presupuesto\bin\Debug\Presupuesto.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Presupuesto\bin\Debug\Presupuesto.pdb
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Presupuesto\bin\Debug\ClasesSGUV.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Presupuesto\bin\Debug\itextsharp.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Presupuesto\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Presupuesto\bin\Debug\ClasesSGUV.pdb
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Presupuesto\obj\x86\Debug\Presupuesto.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Presupuesto\obj\x86\Debug\Presupuesto.csproj.ResolveComReference.cache
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Presupuesto\obj\x86\Debug\Presupuesto.Comentarios.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Presupuesto\obj\x86\Debug\Presupuesto.AuditoriaPresupuesto.ComentariosDetalle.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Presupuesto\obj\x86\Debug\Presupuesto.ComentariosGlobal.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Presupuesto\obj\x86\Debug\Presupuesto.Comisiones.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Presupuesto\obj\x86\Debug\Presupuesto.EstadoResultados.CargarDatos.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Presupuesto\obj\x86\Debug\Presupuesto.EdoResultados.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Presupuesto\obj\x86\Debug\Presupuesto.Form1.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Presupuesto\obj\x86\Debug\Presupuesto.FormDetalle.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Presupuesto\obj\x86\Debug\Presupuesto.frmPresupuesto.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Presupuesto\obj\x86\Debug\Presupuesto.Properties.Resources.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Presupuesto\obj\x86\Debug\Presupuesto.RepNomina.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Presupuesto\obj\x86\Debug\Presupuesto.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Presupuesto\obj\x86\Debug\Presupuesto.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Presupuesto\obj\x86\Debug\Presupuesto.pdb
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Presupuesto\obj\x86\Debug\Presupuesto.Presupuesto.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Presupuesto\bin\Debug\Presupuesto.dll.config
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Presupuesto\bin\Debug\Presupuesto.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Presupuesto\bin\Debug\Presupuesto.pdb
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Presupuesto\bin\Debug\ClasesSGUV.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Presupuesto\bin\Debug\itextsharp.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Presupuesto\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Presupuesto\bin\Debug\ClasesSGUV.pdb
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Presupuesto\obj\x86\Debug\Presupuesto.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Presupuesto\obj\x86\Debug\Presupuesto.csproj.ResolveComReference.cache
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Presupuesto\obj\x86\Debug\Presupuesto.Comentarios.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Presupuesto\obj\x86\Debug\Presupuesto.AuditoriaPresupuesto.ComentariosDetalle.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Presupuesto\obj\x86\Debug\Presupuesto.ComentariosGlobal.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Presupuesto\obj\x86\Debug\Presupuesto.Comisiones.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Presupuesto\obj\x86\Debug\Presupuesto.EstadoResultados.CargarDatos.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Presupuesto\obj\x86\Debug\Presupuesto.EdoResultados.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Presupuesto\obj\x86\Debug\Presupuesto.Form1.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Presupuesto\obj\x86\Debug\Presupuesto.FormDetalle.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Presupuesto\obj\x86\Debug\Presupuesto.frmPresupuesto.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Presupuesto\obj\x86\Debug\Presupuesto.Presupuesto.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Presupuesto\obj\x86\Debug\Presupuesto.Properties.Resources.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Presupuesto\obj\x86\Debug\Presupuesto.RepNomina.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Presupuesto\obj\x86\Debug\Presupuesto.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Presupuesto\obj\x86\Debug\Presupuesto.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Presupuesto\obj\x86\Debug\Presupuesto.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Presupuesto\bin\Debug\Presupuesto.dll.config
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Presupuesto\bin\Debug\Presupuesto.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Presupuesto\bin\Debug\Presupuesto.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Presupuesto\bin\Debug\ClasesSGUV.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Presupuesto\bin\Debug\itextsharp.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Presupuesto\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Presupuesto\bin\Debug\ClasesSGUV.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Presupuesto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Presupuesto\obj\x86\Debug\Presupuesto.csproj.ResolveComReference.cache
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Presupuesto\obj\x86\Debug\Presupuesto.Comentarios.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Presupuesto\obj\x86\Debug\Presupuesto.AuditoriaPresupuesto.ComentariosDetalle.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Presupuesto\obj\x86\Debug\Presupuesto.ComentariosGlobal.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Presupuesto\obj\x86\Debug\Presupuesto.Comisiones.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Presupuesto\obj\x86\Debug\Presupuesto.EstadoResultados.CargarDatos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Presupuesto\obj\x86\Debug\Presupuesto.EdoResultados.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Presupuesto\obj\x86\Debug\Presupuesto.Form1.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Presupuesto\obj\x86\Debug\Presupuesto.FormDetalle.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Presupuesto\obj\x86\Debug\Presupuesto.frmPresupuesto.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Presupuesto\obj\x86\Debug\Presupuesto.Presupuesto.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Presupuesto\obj\x86\Debug\Presupuesto.Properties.Resources.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Presupuesto\obj\x86\Debug\Presupuesto.RepNomina.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Presupuesto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Presupuesto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Presupuesto\obj\x86\Debug\Presupuesto.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Presupuesto\obj\x86\Debug\Presupuesto.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Presupuesto\bin\Debug\Presupuesto.dll.config
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Presupuesto\bin\Debug\Presupuesto.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Presupuesto\bin\Debug\Presupuesto.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Presupuesto\bin\Debug\ClasesSGUV.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Presupuesto\bin\Debug\itextsharp.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Presupuesto\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Presupuesto\bin\Debug\ClasesSGUV.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Presupuesto\obj\x86\Debug\Presupuesto.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Presupuesto\obj\x86\Debug\Presupuesto.csproj.ResolveComReference.cache
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Presupuesto\obj\x86\Debug\Presupuesto.Comentarios.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Presupuesto\obj\x86\Debug\Presupuesto.AuditoriaPresupuesto.ComentariosDetalle.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Presupuesto\obj\x86\Debug\Presupuesto.ComentariosGlobal.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Presupuesto\obj\x86\Debug\Presupuesto.Nomina.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Presupuesto\obj\x86\Debug\Presupuesto.Comisiones.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Presupuesto\obj\x86\Debug\Presupuesto.EstadoResultados.CargarDatos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Presupuesto\obj\x86\Debug\Presupuesto.EdoResultados.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Presupuesto\obj\x86\Debug\Presupuesto.Form1.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Presupuesto\obj\x86\Debug\Presupuesto.FormDetalle.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Presupuesto\obj\x86\Debug\Presupuesto.frmPresupuesto.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Presupuesto\obj\x86\Debug\Presupuesto.Presupuesto.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Presupuesto\obj\x86\Debug\Presupuesto.Properties.Resources.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Presupuesto\obj\x86\Debug\Presupuesto.RepNomina.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Presupuesto\obj\x86\Debug\Presupuesto.Requisicion.ctrlGeneral.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Presupuesto\obj\x86\Debug\Presupuesto.Requisicion.ctrlEspecifico.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Presupuesto\obj\x86\Debug\Presupuesto.Requisicion.frmComentarios.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Presupuesto\obj\x86\Debug\Presupuesto.Requisicion.frmRequisicion.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Presupuesto\obj\x86\Debug\Presupuesto.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Presupuesto\obj\x86\Debug\Presupuesto.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Presupuesto\obj\x86\Debug\Presupuesto.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Presupuesto\bin\Debug\Presupuesto.dll.config
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Presupuesto\bin\Debug\Presupuesto.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Presupuesto\bin\Debug\Presupuesto.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Presupuesto\bin\Debug\ClasesSGUV.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Presupuesto\bin\Debug\itextsharp.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Presupuesto\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Presupuesto\bin\Debug\ClasesSGUV.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Presupuesto\obj\x86\Debug\Presupuesto.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Presupuesto\obj\x86\Debug\Presupuesto.csproj.ResolveComReference.cache
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Presupuesto\obj\x86\Debug\Presupuesto.Comentarios.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Presupuesto\obj\x86\Debug\Presupuesto.AuditoriaPresupuesto.ComentariosDetalle.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Presupuesto\obj\x86\Debug\Presupuesto.ComentariosGlobal.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Presupuesto\obj\x86\Debug\Presupuesto.Nomina.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Presupuesto\obj\x86\Debug\Presupuesto.Comisiones.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Presupuesto\obj\x86\Debug\Presupuesto.EstadoResultados.CargarDatos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Presupuesto\obj\x86\Debug\Presupuesto.EdoResultados.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Presupuesto\obj\x86\Debug\Presupuesto.Form1.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Presupuesto\obj\x86\Debug\Presupuesto.FormDetalle.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Presupuesto\obj\x86\Debug\Presupuesto.frmPresupuesto.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Presupuesto\obj\x86\Debug\Presupuesto.Presupuesto.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Presupuesto\obj\x86\Debug\Presupuesto.Properties.Resources.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Presupuesto\obj\x86\Debug\Presupuesto.RepNomina.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Presupuesto\obj\x86\Debug\Presupuesto.Requisicion.ctrlGeneral.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Presupuesto\obj\x86\Debug\Presupuesto.Requisicion.ctrlEspecifico.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Presupuesto\obj\x86\Debug\Presupuesto.Requisicion.frmComentarios.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Presupuesto\obj\x86\Debug\Presupuesto.Requisicion.frmRequisicion.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Presupuesto\obj\x86\Debug\Presupuesto.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Presupuesto\obj\x86\Debug\Presupuesto.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Presupuesto\obj\x86\Debug\Presupuesto.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Presupuesto\obj\x86\Debug\Presupuesto.frmPerdidaGanancia.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Presupuesto\bin\Debug\Presupuesto.dll.config
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Presupuesto\bin\Debug\Presupuesto.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Presupuesto\bin\Debug\Presupuesto.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Presupuesto\bin\Debug\ClasesSGUV.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Presupuesto\bin\Debug\itextsharp.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Presupuesto\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Presupuesto\bin\Debug\ClasesSGUV.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Presupuesto\obj\x86\Debug\Presupuesto.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Presupuesto\obj\x86\Debug\Presupuesto.csproj.ResolveComReference.cache
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Presupuesto\obj\x86\Debug\Presupuesto.Comentarios.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Presupuesto\obj\x86\Debug\Presupuesto.AuditoriaPresupuesto.ComentariosDetalle.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Presupuesto\obj\x86\Debug\Presupuesto.ComentariosGlobal.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Presupuesto\obj\x86\Debug\Presupuesto.frmPerdidaGanancia.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Presupuesto\obj\x86\Debug\Presupuesto.Nomina.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Presupuesto\obj\x86\Debug\Presupuesto.Comisiones.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Presupuesto\obj\x86\Debug\Presupuesto.EstadoResultados.CargarDatos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Presupuesto\obj\x86\Debug\Presupuesto.EdoResultados.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Presupuesto\obj\x86\Debug\Presupuesto.Form1.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Presupuesto\obj\x86\Debug\Presupuesto.FormDetalle.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Presupuesto\obj\x86\Debug\Presupuesto.frmPresupuesto.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Presupuesto\obj\x86\Debug\Presupuesto.Presupuesto.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Presupuesto\obj\x86\Debug\Presupuesto.Properties.Resources.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Presupuesto\obj\x86\Debug\Presupuesto.RepNomina.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Presupuesto\obj\x86\Debug\Presupuesto.Requisicion.ctrlGeneral.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Presupuesto\obj\x86\Debug\Presupuesto.Requisicion.ctrlEspecifico.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Presupuesto\obj\x86\Debug\Presupuesto.Requisicion.frmComentarios.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Presupuesto\obj\x86\Debug\Presupuesto.Requisicion.frmRequisicion.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Presupuesto\obj\x86\Debug\Presupuesto.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Presupuesto\obj\x86\Debug\Presupuesto.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Presupuesto\obj\x86\Debug\Presupuesto.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Presupuesto\bin\Debug\Presupuesto.dll.config
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Presupuesto\bin\Debug\Presupuesto.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Presupuesto\bin\Debug\Presupuesto.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Presupuesto\bin\Debug\ClasesSGUV.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Presupuesto\bin\Debug\itextsharp.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Presupuesto\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Presupuesto\bin\Debug\ClasesSGUV.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Presupuesto\obj\x86\Debug\Presupuesto.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Presupuesto\obj\x86\Debug\Presupuesto.csproj.ResolveComReference.cache
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Presupuesto\obj\x86\Debug\Presupuesto.Comentarios.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Presupuesto\obj\x86\Debug\Presupuesto.AuditoriaPresupuesto.ComentariosDetalle.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Presupuesto\obj\x86\Debug\Presupuesto.ComentariosGlobal.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Presupuesto\obj\x86\Debug\Presupuesto.frmPerdidaGanancia.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Presupuesto\obj\x86\Debug\Presupuesto.Nomina.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Presupuesto\obj\x86\Debug\Presupuesto.Comisiones.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Presupuesto\obj\x86\Debug\Presupuesto.EstadoResultados.CargarDatos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Presupuesto\obj\x86\Debug\Presupuesto.EdoResultados.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Presupuesto\obj\x86\Debug\Presupuesto.Form1.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Presupuesto\obj\x86\Debug\Presupuesto.FormDetalle.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Presupuesto\obj\x86\Debug\Presupuesto.frmPresupuesto.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Presupuesto\obj\x86\Debug\Presupuesto.Presupuesto.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Presupuesto\obj\x86\Debug\Presupuesto.Properties.Resources.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Presupuesto\obj\x86\Debug\Presupuesto.RepNomina.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Presupuesto\obj\x86\Debug\Presupuesto.Requisicion.ctrlGeneral.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Presupuesto\obj\x86\Debug\Presupuesto.Requisicion.ctrlEspecifico.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Presupuesto\obj\x86\Debug\Presupuesto.Requisicion.frmComentarios.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Presupuesto\obj\x86\Debug\Presupuesto.Requisicion.frmRequisicion.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Presupuesto\obj\x86\Debug\Presupuesto.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Presupuesto\obj\x86\Debug\Presupuesto.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Presupuesto\obj\x86\Debug\Presupuesto.pdb
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Presupuesto\bin\Debug\Presupuesto.dll.config
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Presupuesto\bin\Debug\Presupuesto.dll
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Presupuesto\bin\Debug\Presupuesto.pdb
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Presupuesto\bin\Debug\ClasesSGUV.dll
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Presupuesto\bin\Debug\itextsharp.dll
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Presupuesto\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Presupuesto\bin\Debug\ClasesSGUV.pdb
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Presupuesto\obj\x86\Debug\Presupuesto.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Presupuesto\obj\x86\Debug\Presupuesto.csproj.ResolveComReference.cache
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Presupuesto\obj\x86\Debug\Presupuesto.Comentarios.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Presupuesto\obj\x86\Debug\Presupuesto.AuditoriaPresupuesto.ComentariosDetalle.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Presupuesto\obj\x86\Debug\Presupuesto.ComentariosGlobal.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Presupuesto\obj\x86\Debug\Presupuesto.frmPerdidaGanancia.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Presupuesto\obj\x86\Debug\Presupuesto.Nomina.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Presupuesto\obj\x86\Debug\Presupuesto.Comisiones.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Presupuesto\obj\x86\Debug\Presupuesto.EstadoResultados.CargarDatos.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Presupuesto\obj\x86\Debug\Presupuesto.EdoResultados.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Presupuesto\obj\x86\Debug\Presupuesto.Form1.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Presupuesto\obj\x86\Debug\Presupuesto.FormDetalle.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Presupuesto\obj\x86\Debug\Presupuesto.frmPresupuesto.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Presupuesto\obj\x86\Debug\Presupuesto.Presupuesto.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Presupuesto\obj\x86\Debug\Presupuesto.Properties.Resources.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Presupuesto\obj\x86\Debug\Presupuesto.RepNomina.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Presupuesto\obj\x86\Debug\Presupuesto.Requisicion.ctrlGeneral.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Presupuesto\obj\x86\Debug\Presupuesto.Requisicion.ctrlEspecifico.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Presupuesto\obj\x86\Debug\Presupuesto.Requisicion.frmComentarios.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Presupuesto\obj\x86\Debug\Presupuesto.Requisicion.frmRequisicion.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Presupuesto\obj\x86\Debug\Presupuesto.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Presupuesto\obj\x86\Debug\Presupuesto.dll
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Presupuesto\obj\x86\Debug\Presupuesto.pdb

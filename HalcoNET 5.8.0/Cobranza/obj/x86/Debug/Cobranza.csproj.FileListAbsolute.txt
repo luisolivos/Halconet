@@ -1,0 +1,1471 @@
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado - copia\Ventas\Cobranza\bin\Debug\Cobranza.exe.config
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado - copia\Ventas\Cobranza\bin\Debug\Cobranza.exe
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado - copia\Ventas\Cobranza\bin\Debug\Cobranza.pdb
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado - copia\Ventas\Cobranza\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado - copia\Ventas\Cobranza\obj\x86\Debug\Cobranza.Principal.resources
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado - copia\Ventas\Cobranza\obj\x86\Debug\Cobranza.Properties.Resources.resources
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado - copia\Ventas\Cobranza\obj\x86\Debug\Cobranza.ReporteCrystal.resources
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado - copia\Ventas\Cobranza\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado - copia\Ventas\Cobranza\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado - copia\Ventas\Cobranza\obj\x86\Debug\Cobranza.exe
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado - copia\Ventas\Cobranza\obj\x86\Debug\Cobranza.pdb
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5\Ventas\Cobranza\bin\Debug\Cobranza.exe.config
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5\Ventas\Cobranza\bin\Debug\Cobranza.exe
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5\Ventas\Cobranza\bin\Debug\Cobranza.pdb
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5\Ventas\Cobranza\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5\Ventas\Cobranza\obj\x86\Debug\Cobranza.Principal.resources
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5\Ventas\Cobranza\obj\x86\Debug\Cobranza.Properties.Resources.resources
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5\Ventas\Cobranza\obj\x86\Debug\Cobranza.ReporteCrystal.resources
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5\Ventas\Cobranza\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5\Ventas\Cobranza\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5\Ventas\Cobranza\obj\x86\Debug\Cobranza.exe
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5\Ventas\Cobranza\obj\x86\Debug\Cobranza.pdb
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5.3\Ventas\Cobranza\bin\Debug\Cobranza.exe.config
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5.3\Ventas\Cobranza\bin\Debug\Cobranza.exe
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5.3\Ventas\Cobranza\bin\Debug\Cobranza.pdb
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5.3\Ventas\Cobranza\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5.3\Ventas\Cobranza\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5.3\Ventas\Cobranza\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5.3\Ventas\Cobranza\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5.3\Ventas\Cobranza\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5.3\Ventas\Cobranza\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5.3\Ventas\Cobranza\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5.3\Ventas\Cobranza\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5.3\Ventas\Cobranza\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5.3\Ventas\Cobranza\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5.3\Ventas\Cobranza\bin\Debug\log4net.dll
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5.3\Ventas\Cobranza\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5.3\Ventas\Cobranza\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5.3\Ventas\Cobranza\obj\x86\Debug\Cobranza.Principal.resources
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5.3\Ventas\Cobranza\obj\x86\Debug\Cobranza.Properties.Resources.resources
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5.3\Ventas\Cobranza\obj\x86\Debug\Cobranza.ReporteCrystal.resources
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5.3\Ventas\Cobranza\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5.3\Ventas\Cobranza\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5.3\Ventas\Cobranza\obj\x86\Debug\Cobranza.exe
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5.3\Ventas\Cobranza\obj\x86\Debug\Cobranza.pdb
+\\192.168.2.159\Reportes Facturas\VentasOK v4.5.3\Ventas\Cobranza\bin\Debug\Cobranza.exe.config
+\\192.168.2.159\Reportes Facturas\VentasOK v4.5.3\Ventas\Cobranza\bin\Debug\Cobranza.exe
+\\192.168.2.159\Reportes Facturas\VentasOK v4.5.3\Ventas\Cobranza\bin\Debug\Cobranza.pdb
+\\192.168.2.159\Reportes Facturas\VentasOK v4.5.3\Ventas\Cobranza\obj\x86\Debug\Cobranza.csprojResolveAssemblyReference.cache
+\\192.168.2.159\Reportes Facturas\VentasOK v4.5.3\Ventas\Cobranza\obj\x86\Debug\Cobranza.Cobranza1.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.5.3\Ventas\Cobranza\obj\x86\Debug\Cobranza.Form1.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.5.3\Ventas\Cobranza\obj\x86\Debug\Cobranza.Principal.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.5.3\Ventas\Cobranza\obj\x86\Debug\Cobranza.Properties.Resources.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.5.3\Ventas\Cobranza\obj\x86\Debug\Cobranza.ReporteCrystal.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.5.3\Ventas\Cobranza\obj\x86\Debug\Cobranza.csproj.GenerateResource.Cache
+\\192.168.2.159\Reportes Facturas\VentasOK v4.5.3\Ventas\Cobranza\obj\x86\Debug\Cobranza.exe
+\\192.168.2.159\Reportes Facturas\VentasOK v4.5.3\Ventas\Cobranza\obj\x86\Debug\Cobranza.pdb
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.5.3\Ventas\Cobranza\bin\Debug\Cobranza.exe.config
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.5.3\Ventas\Cobranza\bin\Debug\Cobranza.exe
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.5.3\Ventas\Cobranza\bin\Debug\Cobranza.pdb
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.5.3\Ventas\Cobranza\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.5.3\Ventas\Cobranza\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.5.3\Ventas\Cobranza\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.5.3\Ventas\Cobranza\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.5.3\Ventas\Cobranza\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.5.3\Ventas\Cobranza\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.5.3\Ventas\Cobranza\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.5.3\Ventas\Cobranza\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.5.3\Ventas\Cobranza\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.5.3\Ventas\Cobranza\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.5.3\Ventas\Cobranza\bin\Debug\log4net.dll
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.5.3\Ventas\Cobranza\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.5.3\Ventas\Cobranza\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.5.3\Ventas\Cobranza\obj\x86\Debug\Cobranza.Cobranza1.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.5.3\Ventas\Cobranza\obj\x86\Debug\Cobranza.Form1.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.5.3\Ventas\Cobranza\obj\x86\Debug\Cobranza.Principal.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.5.3\Ventas\Cobranza\obj\x86\Debug\Cobranza.Properties.Resources.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.5.3\Ventas\Cobranza\obj\x86\Debug\Cobranza.ReporteCrystal.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.5.3\Ventas\Cobranza\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.5.3\Ventas\Cobranza\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.5.3\Ventas\Cobranza\obj\x86\Debug\Cobranza.exe
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.5.3\Ventas\Cobranza\obj\x86\Debug\Cobranza.pdb
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6\Ventas\Cobranza\bin\Debug\Cobranza.exe.config
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6\Ventas\Cobranza\bin\Debug\Cobranza.exe
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6\Ventas\Cobranza\bin\Debug\Cobranza.pdb
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6\Ventas\Cobranza\obj\x86\Debug\Cobranza.csprojResolveAssemblyReference.cache
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6\Ventas\Cobranza\obj\x86\Debug\Cobranza.AntiguiedadSaldos.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6\Ventas\Cobranza\obj\x86\Debug\Cobranza.Form1.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6\Ventas\Cobranza\obj\x86\Debug\Cobranza.Principal.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6\Ventas\Cobranza\obj\x86\Debug\Cobranza.Properties.Resources.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6\Ventas\Cobranza\obj\x86\Debug\Cobranza.ReporteCrystal.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6\Ventas\Cobranza\obj\x86\Debug\Cobranza.csproj.GenerateResource.Cache
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6\Ventas\Cobranza\obj\x86\Debug\Cobranza.exe
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6\Ventas\Cobranza\obj\x86\Debug\Cobranza.pdb
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6\Ventas\Cobranza\bin\Debug\Cobranza.exe.config
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6\Ventas\Cobranza\bin\Debug\Cobranza.exe
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6\Ventas\Cobranza\bin\Debug\Cobranza.pdb
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6\Ventas\Cobranza\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6\Ventas\Cobranza\obj\x86\Debug\Cobranza.AntiguiedadSaldos.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6\Ventas\Cobranza\obj\x86\Debug\Cobranza.Form1.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6\Ventas\Cobranza\obj\x86\Debug\Cobranza.Principal.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6\Ventas\Cobranza\obj\x86\Debug\Cobranza.Properties.Resources.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6\Ventas\Cobranza\obj\x86\Debug\Cobranza.ReporteCrystal.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6\Ventas\Cobranza\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6\Ventas\Cobranza\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6\Ventas\Cobranza\obj\x86\Debug\Cobranza.exe
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6\Ventas\Cobranza\obj\x86\Debug\Cobranza.pdb
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6\Ventas\Cobranza\obj\x86\Debug\Cobranza.PrincipalCobranza.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\bin\Debug\Cobranza.exe.config
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\bin\Debug\Cobranza.exe
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\bin\Debug\Cobranza.pdb
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.csprojResolveAssemblyReference.cache
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.AntiguiedadSaldos.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.Form1.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.Principal.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.PrincipalCobranza.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.Properties.Resources.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.ReporteCrystal.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.ScocreCardGlobal.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.csproj.GenerateResource.Cache
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.exe
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.pdb
+\\DESARROLLO-PJ\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\bin\Debug\Cobranza.exe.config
+\\DESARROLLO-PJ\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\bin\Debug\Cobranza.exe
+\\DESARROLLO-PJ\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\bin\Debug\Cobranza.pdb
+\\DESARROLLO-PJ\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\obj\x86\Debug\ResolveAssemblyReference.cache
+\\DESARROLLO-PJ\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.AntiguiedadSaldos.resources
+\\DESARROLLO-PJ\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.DetalleAntiguedadSaldos.resources
+\\DESARROLLO-PJ\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.Form1.resources
+\\DESARROLLO-PJ\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.Principal.resources
+\\DESARROLLO-PJ\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.PrincipalCobranza.resources
+\\DESARROLLO-PJ\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.Properties.Resources.resources
+\\DESARROLLO-PJ\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.ReporteCrystal.resources
+\\DESARROLLO-PJ\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.SaldosNI.resources
+\\DESARROLLO-PJ\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.ScocreCardGlobal.resources
+\\DESARROLLO-PJ\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.ScorecardSemanal.resources
+\\DESARROLLO-PJ\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\obj\x86\Debug\GenerateResource.read.1.tlog
+\\DESARROLLO-PJ\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\obj\x86\Debug\GenerateResource.write.1.tlog
+\\DESARROLLO-PJ\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.exe
+\\DESARROLLO-PJ\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.pdb
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.DetalleAntiguedadSaldos.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.SaldosNI.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.ScorecardSemanal.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\bin\Debug\Cobranza.exe.config
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\bin\Debug\Cobranza.exe
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\bin\Debug\Cobranza.pdb
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\bin\Debug\Presupuesto.exe
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\bin\Debug\Presupuesto.pdb
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.AntiguiedadSaldos.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.AntiguedadSaldos.NuevoCompromiso.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.AntiguedadSaldos.SeguimientoCompromisos.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.DetallePagos.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.Cobranza1.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.DetalleAntiguedadSaldos.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.Form1.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.Principal.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.PrincipalCobranza.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.Properties.Resources.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.ReporteCrystal.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.SaldosNI.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.ScocreCardGlobal.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.ScorecardSemanal.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.exe
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.pdb
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Cobranza\bin\Debug\Cobranza.exe.config
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Cobranza\obj\x86\Debug\Cobranza.exe
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Cobranza\obj\x86\Debug\Cobranza.pdb
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Cobranza\bin\Debug\Cobranza.exe
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Cobranza\bin\Debug\Cobranza.pdb
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Cobranza\bin\Debug\Presupuesto.exe
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Cobranza\bin\Debug\Presupuesto.pdb
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Cobranza\obj\x86\Debug\Cobranza.csprojResolveAssemblyReference.cache
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Cobranza\obj\x86\Debug\Cobranza.AntiguiedadSaldos.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Cobranza\obj\x86\Debug\Cobranza.AntiguedadSaldos.NuevoCompromiso.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Cobranza\obj\x86\Debug\Cobranza.AntiguedadSaldos.SeguimientoCompromisos.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Cobranza\obj\x86\Debug\Cobranza.DetallePagos.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Cobranza\obj\x86\Debug\Cobranza.Cobranza1.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Cobranza\obj\x86\Debug\Cobranza.DetalleAntiguedadSaldos.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Cobranza\obj\x86\Debug\Cobranza.Form1.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Cobranza\obj\x86\Debug\Cobranza.Principal.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Cobranza\obj\x86\Debug\Cobranza.PrincipalCobranza.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Cobranza\obj\x86\Debug\Cobranza.Properties.Resources.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Cobranza\obj\x86\Debug\Cobranza.ReporteCrystal.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Cobranza\obj\x86\Debug\Cobranza.SaldosNI.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Cobranza\obj\x86\Debug\Cobranza.ScocreCardGlobal.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Cobranza\obj\x86\Debug\Cobranza.ScorecardSemanal.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Cobranza\obj\x86\Debug\Cobranza.csproj.GenerateResource.Cache
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Cobranza\bin\Debug\Cobranza.exe.config
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Cobranza\bin\Debug\Cobranza.exe
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Cobranza\bin\Debug\Cobranza.pdb
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Cobranza\bin\Debug\Presupuesto.exe
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Cobranza\bin\Debug\Presupuesto.pdb
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Cobranza\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Cobranza\obj\x86\Debug\Cobranza.AntiguiedadSaldos.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Cobranza\obj\x86\Debug\Cobranza.AntiguedadSaldos.NuevoCompromiso.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Cobranza\obj\x86\Debug\Cobranza.AntiguedadSaldos.SeguimientoCompromisos.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Cobranza\obj\x86\Debug\Cobranza.DetallePagos.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Cobranza\obj\x86\Debug\Cobranza.Cobranza1.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Cobranza\obj\x86\Debug\Cobranza.DetalleAntiguedadSaldos.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Cobranza\obj\x86\Debug\Cobranza.Form1.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Cobranza\obj\x86\Debug\Cobranza.Principal.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Cobranza\obj\x86\Debug\Cobranza.PrincipalCobranza.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Cobranza\obj\x86\Debug\Cobranza.Properties.Resources.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Cobranza\obj\x86\Debug\Cobranza.ReporteCrystal.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Cobranza\obj\x86\Debug\Cobranza.SaldosNI.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Cobranza\obj\x86\Debug\Cobranza.ScocreCardGlobal.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Cobranza\obj\x86\Debug\Cobranza.ScorecardSemanal.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Cobranza\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Cobranza\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Cobranza\obj\x86\Debug\Cobranza.exe
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Cobranza\obj\x86\Debug\Cobranza.pdb
+\\192.168.2.159\Reportes Facturas\VentasOK v 4.7.0\Ventas\Cobranza\bin\Debug\Cobranza.exe.config
+\\192.168.2.159\Reportes Facturas\VentasOK v 4.7.0\Ventas\Cobranza\bin\Debug\Cobranza.exe
+\\192.168.2.159\Reportes Facturas\VentasOK v 4.7.0\Ventas\Cobranza\bin\Debug\Cobranza.pdb
+\\192.168.2.159\Reportes Facturas\VentasOK v 4.7.0\Ventas\Cobranza\bin\Debug\Presupuesto.exe
+\\192.168.2.159\Reportes Facturas\VentasOK v 4.7.0\Ventas\Cobranza\bin\Debug\Presupuesto.pdb
+\\192.168.2.159\Reportes Facturas\VentasOK v 4.7.0\Ventas\Cobranza\obj\x86\Debug\Cobranza.csprojResolveAssemblyReference.cache
+\\192.168.2.159\Reportes Facturas\VentasOK v 4.7.0\Ventas\Cobranza\obj\x86\Debug\Cobranza.AntiguiedadSaldos.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v 4.7.0\Ventas\Cobranza\obj\x86\Debug\Cobranza.AntiguedadSaldos.NuevoCompromiso.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v 4.7.0\Ventas\Cobranza\obj\x86\Debug\Cobranza.AntiguedadSaldos.SeguimientoCompromisos.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v 4.7.0\Ventas\Cobranza\obj\x86\Debug\Cobranza.DetallePagos.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v 4.7.0\Ventas\Cobranza\obj\x86\Debug\Cobranza.Cobranza1.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v 4.7.0\Ventas\Cobranza\obj\x86\Debug\Cobranza.DetalleAntiguedadSaldos.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v 4.7.0\Ventas\Cobranza\obj\x86\Debug\Cobranza.Form1.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v 4.7.0\Ventas\Cobranza\obj\x86\Debug\Cobranza.Principal.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v 4.7.0\Ventas\Cobranza\obj\x86\Debug\Cobranza.PrincipalCobranza.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v 4.7.0\Ventas\Cobranza\obj\x86\Debug\Cobranza.Properties.Resources.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v 4.7.0\Ventas\Cobranza\obj\x86\Debug\Cobranza.ReporteCrystal.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v 4.7.0\Ventas\Cobranza\obj\x86\Debug\Cobranza.SaldosNI.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v 4.7.0\Ventas\Cobranza\obj\x86\Debug\Cobranza.ScocreCardGlobal.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v 4.7.0\Ventas\Cobranza\obj\x86\Debug\Cobranza.ScorecardSemanal.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v 4.7.0\Ventas\Cobranza\obj\x86\Debug\Cobranza.csproj.GenerateResource.Cache
+\\192.168.2.159\Reportes Facturas\VentasOK v 4.7.0\Ventas\Cobranza\obj\x86\Debug\Cobranza.exe
+\\192.168.2.159\Reportes Facturas\VentasOK v 4.7.0\Ventas\Cobranza\obj\x86\Debug\Cobranza.pdb
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Cobranza\bin\Debug\Cobranza.dll.config
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Cobranza\bin\Debug\Cobranza.dll
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Cobranza\bin\Debug\Cobranza.pdb
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Cobranza\bin\Debug\Presupuesto.dll
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Cobranza\bin\Debug\Presupuesto.pdb
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Cobranza\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Cobranza\obj\x86\Debug\Cobranza.AntiguiedadSaldos.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Cobranza\obj\x86\Debug\Cobranza.AntiguedadSaldos.NuevoCompromiso.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Cobranza\obj\x86\Debug\Cobranza.AntiguedadSaldos.SeguimientoCompromisos.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Cobranza\obj\x86\Debug\Cobranza.DetallePagos.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Cobranza\obj\x86\Debug\Cobranza.Indicares.InidicadoresMnsuales.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Cobranza\obj\x86\Debug\Cobranza.Cobranza1.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Cobranza\obj\x86\Debug\Cobranza.DetalleAntiguedadSaldos.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Cobranza\obj\x86\Debug\Cobranza.Form1.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Cobranza\obj\x86\Debug\Cobranza.Principal.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Cobranza\obj\x86\Debug\Cobranza.PrincipalCobranza.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Cobranza\obj\x86\Debug\Cobranza.Properties.Resources.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Cobranza\obj\x86\Debug\Cobranza.ReporteCrystal.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Cobranza\obj\x86\Debug\Cobranza.SaldosNI.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Cobranza\obj\x86\Debug\Cobranza.ScocreCardGlobal.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Cobranza\obj\x86\Debug\Cobranza.ScorecardSemanal.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Cobranza\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Cobranza\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Cobranza\obj\x86\Debug\Cobranza.dll
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Cobranza\obj\x86\Debug\Cobranza.pdb
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Cobranza\bin\Debug\Cobranza.dll.config
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Cobranza\bin\Debug\Cobranza.dll
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Cobranza\bin\Debug\Cobranza.pdb
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Cobranza\bin\Debug\itextsharp.dll
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Cobranza\bin\Debug\Presupuesto.dll
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Cobranza\bin\Debug\Presupuesto.pdb
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Cobranza\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.GestionCobranza.AlertasCompromisos.resources
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.AntiguiedadSaldos.resources
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.GestionCobranza.CoberturaCartera.resources
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.AntiguedadSaldos.NuevoCompromiso.resources
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.AntiguedadSaldos.SeguimientoCompromisos.resources
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.DetallePagos.resources
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.Indicares.InidicadoresMnsuales.resources
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.PagosClientes.resources
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.RecibosReparto.AuditoriaRecibos.resources
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.Cobranza1.resources
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.DetalleAntiguedadSaldos.resources
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.Form1.resources
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.Principal.resources
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.PrincipalCobranza.resources
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.Properties.Resources.resources
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.ReporteCrystal.resources
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.SaldosNI.resources
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.Score.NuevoObjetiv.resources
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.Score.Objetivos.resources
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.ScocreCardGlobal.resources
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.ScorecardSemanal.resources
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Cobranza\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Cobranza\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.dll
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.pdb
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Cobranza\obj\x86\Debug\Cobranza.Indicadores.DetalleNCPendientes.resources
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Cobranza\bin\Debug\Resources\CorreosJefas.txt
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Cobranza\bin\Debug\Resources\CorreosJefas.txt
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Cobranza\bin\Debug\Cobranza.dll.config
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Cobranza\bin\Debug\Cobranza.dll
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Cobranza\bin\Debug\Cobranza.pdb
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Cobranza\bin\Debug\itextsharp.dll
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Cobranza\bin\Debug\Presupuesto.dll
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Cobranza\bin\Debug\Presupuesto.pdb
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Cobranza\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Cobranza\obj\x86\Debug\Cobranza.GestionCobranza.AlertasCompromisos.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Cobranza\obj\x86\Debug\Cobranza.AntiguiedadSaldos.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Cobranza\obj\x86\Debug\Cobranza.GestionCobranza.CoberturaCartera.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Cobranza\obj\x86\Debug\Cobranza.AntiguedadSaldos.NuevoCompromiso.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Cobranza\obj\x86\Debug\Cobranza.AntiguedadSaldos.SeguimientoCompromisos.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Cobranza\obj\x86\Debug\Cobranza.DetallePagos.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Cobranza\obj\x86\Debug\Cobranza.Indicadores.DetalleNCPendientes.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Cobranza\obj\x86\Debug\Cobranza.Indicares.InidicadoresMnsuales.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Cobranza\obj\x86\Debug\Cobranza.PagosClientes.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Cobranza\obj\x86\Debug\Cobranza.RecibosReparto.AuditoriaRecibos.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Cobranza\obj\x86\Debug\Cobranza.Cobranza1.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Cobranza\obj\x86\Debug\Cobranza.DetalleAntiguedadSaldos.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Cobranza\obj\x86\Debug\Cobranza.Form1.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Cobranza\obj\x86\Debug\Cobranza.Principal.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Cobranza\obj\x86\Debug\Cobranza.PrincipalCobranza.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Cobranza\obj\x86\Debug\Cobranza.Properties.Resources.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Cobranza\obj\x86\Debug\Cobranza.ReporteCrystal.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Cobranza\obj\x86\Debug\Cobranza.SaldosNI.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Cobranza\obj\x86\Debug\Cobranza.Score.NuevoObjetiv.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Cobranza\obj\x86\Debug\Cobranza.Score.Objetivos.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Cobranza\obj\x86\Debug\Cobranza.ScocreCardGlobal.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Cobranza\obj\x86\Debug\Cobranza.ScorecardSemanal.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Cobranza\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Cobranza\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Cobranza\obj\x86\Debug\Cobranza.dll
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Cobranza\obj\x86\Debug\Cobranza.pdb
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Cobranza\bin\Debug\ClasesSGUV.dll
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Cobranza\bin\Debug\ClasesSGUV.pdb
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Cobranza\obj\x86\Debug\Cobranza.Contado.FacturasContado.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Cobranza\obj\x86\Debug\Cobranza.Contado.Remisiones.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Cobranza\obj\x86\Debug\Cobranza.Pagos.CargarMovimientos.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Cobranza\obj\x86\Debug\Cobranza.Pagos.FormConfirmacion.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Cobranza\obj\x86\Debug\Cobranza.Pagos.IdentificacionMovimientos.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Cobranza\obj\x86\Debug\Cobranza.Pagos.Facturas.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Cobranza\obj\x86\Debug\Cobranza.Pagos.ConfirmarPagos.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Cobranza\obj\x86\Debug\Cobranza.Pagos.TempletePagos.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Cobranza\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Cobranza\obj\x86\Debug\Cobranza.csproj.ResolveComReference.cache
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Cobranza\obj\x86\Debug\Cobranza.Indicadores.NCPorAclarar.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Cobranza\obj\x86\Debug\Cobranza.AutorizacionNCRD.DetalleFacts.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Cobranza\obj\x86\Debug\Cobranza.RecibosReparto.Facturas.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Cobranza\bin\Debug\Resources\CorreosJefas.txt
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Cobranza\bin\Debug\Cobranza.dll.config
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Cobranza\bin\Debug\Cobranza.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Cobranza\bin\Debug\Cobranza.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Cobranza\bin\Debug\ClasesSGUV.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Cobranza\bin\Debug\itextsharp.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Cobranza\bin\Debug\Presupuesto.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Cobranza\bin\Debug\ClasesSGUV.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Cobranza\bin\Debug\Presupuesto.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Cobranza\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Cobranza\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Cobranza\obj\x86\Debug\Cobranza.csproj.ResolveComReference.cache
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Cobranza\obj\x86\Debug\Cobranza.AutorizacionNCRD.DetalleFacts.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Cobranza\obj\x86\Debug\Cobranza.Contado.FacturasContado.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Cobranza\obj\x86\Debug\Cobranza.Contado.Remisiones.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Cobranza\obj\x86\Debug\Cobranza.GestionCobranza.AlertasCompromisos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Cobranza\obj\x86\Debug\Cobranza.AntiguiedadSaldos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Cobranza\obj\x86\Debug\Cobranza.GestionCobranza.CoberturaCartera.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Cobranza\obj\x86\Debug\Cobranza.AntiguedadSaldos.NuevoCompromiso.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Cobranza\obj\x86\Debug\Cobranza.AntiguedadSaldos.SeguimientoCompromisos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Cobranza\obj\x86\Debug\Cobranza.DetallePagos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Cobranza\obj\x86\Debug\Cobranza.Indicadores.DetalleNCPendientes.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Cobranza\obj\x86\Debug\Cobranza.Indicares.InidicadoresMnsuales.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Cobranza\obj\x86\Debug\Cobranza.Indicadores.NCPorAclarar.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Cobranza\obj\x86\Debug\Cobranza.PagosClientes.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Cobranza\obj\x86\Debug\Cobranza.Pagos.ConfirmarPagos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Cobranza\obj\x86\Debug\Cobranza.Pagos.Facturas.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Cobranza\obj\x86\Debug\Cobranza.Pagos.FormConfirmacion.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Cobranza\obj\x86\Debug\Cobranza.Pagos.IdentificacionMovimientos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Cobranza\obj\x86\Debug\Cobranza.Pagos.TempletePagos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Cobranza\obj\x86\Debug\Cobranza.RecibosReparto.AuditoriaRecibos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Cobranza\obj\x86\Debug\Cobranza.Cobranza1.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Cobranza\obj\x86\Debug\Cobranza.DetalleAntiguedadSaldos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Cobranza\obj\x86\Debug\Cobranza.Form1.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Cobranza\obj\x86\Debug\Cobranza.RecibosReparto.Facturas.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Cobranza\obj\x86\Debug\Cobranza.Principal.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Cobranza\obj\x86\Debug\Cobranza.PrincipalCobranza.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Cobranza\obj\x86\Debug\Cobranza.Properties.Resources.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Cobranza\obj\x86\Debug\Cobranza.ReporteCrystal.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Cobranza\obj\x86\Debug\Cobranza.SaldosNI.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Cobranza\obj\x86\Debug\Cobranza.Score.NuevoObjetiv.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Cobranza\obj\x86\Debug\Cobranza.Score.Objetivos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Cobranza\obj\x86\Debug\Cobranza.ScocreCardGlobal.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Cobranza\obj\x86\Debug\Cobranza.ScorecardSemanal.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Cobranza\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Cobranza\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Cobranza\obj\x86\Debug\Cobranza.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Cobranza\obj\x86\Debug\Cobranza.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Cobranza\obj\x86\Debug\Cobranza.Catalogos.CatalogosCob.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Cobranza\obj\x86\Debug\Cobranza.Pagos.CargarExcel.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Cobranza\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Cobranza\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Cobranza\obj\x86\Debug\Cobranza.csproj.ResolveComReference.cache
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Cobranza\obj\x86\Debug\Cobranza.AutorizacionNCRD.DetalleFacts.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Cobranza\obj\x86\Debug\Cobranza.Catalogos.CatalogosCob.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Cobranza\obj\x86\Debug\Cobranza.Contado.FacturasContado.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Cobranza\obj\x86\Debug\Cobranza.Contado.Remisiones.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Cobranza\obj\x86\Debug\Cobranza.GestionCobranza.AlertasCompromisos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Cobranza\obj\x86\Debug\Cobranza.AntiguiedadSaldos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Cobranza\obj\x86\Debug\Cobranza.GestionCobranza.CoberturaCartera.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Cobranza\obj\x86\Debug\Cobranza.AntiguedadSaldos.NuevoCompromiso.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Cobranza\obj\x86\Debug\Cobranza.AntiguedadSaldos.SeguimientoCompromisos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Cobranza\obj\x86\Debug\Cobranza.DetallePagos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Cobranza\obj\x86\Debug\Cobranza.Indicadores.DetalleNCPendientes.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Cobranza\obj\x86\Debug\Cobranza.Indicares.InidicadoresMnsuales.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Cobranza\obj\x86\Debug\Cobranza.Indicadores.NCPorAclarar.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Cobranza\obj\x86\Debug\Cobranza.PagosClientes.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Cobranza\obj\x86\Debug\Cobranza.Pagos.CargarExcel.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Cobranza\obj\x86\Debug\Cobranza.Pagos.ConfirmarPagos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Cobranza\obj\x86\Debug\Cobranza.Pagos.TempleteNI.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Cobranza\obj\x86\Debug\Cobranza.Pagos.Facturas.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Cobranza\obj\x86\Debug\Cobranza.Pagos.FormConfirmacion.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Cobranza\obj\x86\Debug\Cobranza.Pagos.IdentificacionMovimientos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Cobranza\obj\x86\Debug\Cobranza.RecibosReparto.AuditoriaRecibos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Cobranza\obj\x86\Debug\Cobranza.Cobranza1.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Cobranza\obj\x86\Debug\Cobranza.DetalleAntiguedadSaldos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Cobranza\obj\x86\Debug\Cobranza.Form1.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Cobranza\obj\x86\Debug\Cobranza.RecibosReparto.Facturas.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Cobranza\obj\x86\Debug\Cobranza.Principal.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Cobranza\obj\x86\Debug\Cobranza.PrincipalCobranza.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Cobranza\obj\x86\Debug\Cobranza.Properties.Resources.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Cobranza\obj\x86\Debug\Cobranza.ReporteCrystal.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Cobranza\obj\x86\Debug\Cobranza.SaldosNI.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Cobranza\obj\x86\Debug\Cobranza.Score.NuevoObjetiv.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Cobranza\obj\x86\Debug\Cobranza.Score.Objetivos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Cobranza\obj\x86\Debug\Cobranza.ScocreCardGlobal.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Cobranza\obj\x86\Debug\Cobranza.ScorecardSemanal.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Cobranza\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Cobranza\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Cobranza\bin\Debug\Resources\CorreosJefas.txt
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Cobranza\bin\Debug\Cobranza.dll.config
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Cobranza\bin\Debug\Cobranza.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Cobranza\bin\Debug\Cobranza.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Cobranza\bin\Debug\ClasesSGUV.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Cobranza\bin\Debug\itextsharp.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Cobranza\bin\Debug\Presupuesto.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Cobranza\bin\Debug\ClasesSGUV.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Cobranza\bin\Debug\Presupuesto.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Cobranza\obj\x86\Debug\Cobranza.Pagos.TempletePagos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Cobranza\obj\x86\Debug\Cobranza.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Cobranza\obj\x86\Debug\Cobranza.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Cobranza\obj\x86\Debug\Cobranza.Pagos.TemplateDemasias.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Cobranza\obj\x86\Debug\Cobranza.Pagos.TemplateNC.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Cobranza\obj\x86\Debug\Cobranza.Indicadores.CorreosNCPendientes.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Cobranza\obj\x86\Debug\Cobranza.dll.licenses
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\bin\Debug\Resources\CorreosJefas.txt
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\bin\Debug\Cobranza.dll.config
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\bin\Debug\Cobranza.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\bin\Debug\Cobranza.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\bin\Debug\ClasesSGUV.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\bin\Debug\itextsharp.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\bin\Debug\Presupuesto.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\bin\Debug\ClasesSGUV.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\bin\Debug\Presupuesto.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\obj\x86\Debug\Cobranza.csproj.ResolveComReference.cache
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\obj\x86\Debug\Cobranza.AutorizacionNCRD.DetalleFacts.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\obj\x86\Debug\Cobranza.Catalogos.CatalogosCob.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\obj\x86\Debug\Cobranza.Contado.FacturasContado.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\obj\x86\Debug\Cobranza.Contado.Remisiones.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\obj\x86\Debug\Cobranza.GestionCobranza.AlertasCompromisos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\obj\x86\Debug\Cobranza.AntiguiedadSaldos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\obj\x86\Debug\Cobranza.GestionCobranza.CoberturaCartera.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\obj\x86\Debug\Cobranza.AntiguedadSaldos.NuevoCompromiso.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\obj\x86\Debug\Cobranza.AntiguedadSaldos.SeguimientoCompromisos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\obj\x86\Debug\Cobranza.Indicadores.CorreosNCPendientes.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\obj\x86\Debug\Cobranza.DetallePagos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\obj\x86\Debug\Cobranza.Indicadores.DetalleNCPendientes.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\obj\x86\Debug\Cobranza.Indicares.InidicadoresMnsuales.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\obj\x86\Debug\Cobranza.Indicadores.NCPorAclarar.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\obj\x86\Debug\Cobranza.PagosClientes.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\obj\x86\Debug\Cobranza.Pagos.CargarExcel.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\obj\x86\Debug\Cobranza.Pagos.ConfirmarPagos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\obj\x86\Debug\Cobranza.Pagos.TemplateNC.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\obj\x86\Debug\Cobranza.Pagos.TemplateDemasias.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\obj\x86\Debug\Cobranza.Pagos.TempletePagos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\obj\x86\Debug\Cobranza.Pagos.Facturas.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\obj\x86\Debug\Cobranza.Pagos.FormConfirmacion.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\obj\x86\Debug\Cobranza.Pagos.IdentificacionMovimientos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\obj\x86\Debug\Cobranza.Pagos.TempleteNI.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\obj\x86\Debug\Cobranza.RecibosReparto.AuditoriaRecibos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\obj\x86\Debug\Cobranza.Cobranza1.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\obj\x86\Debug\Cobranza.DetalleAntiguedadSaldos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\obj\x86\Debug\Cobranza.Form1.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\obj\x86\Debug\Cobranza.RecibosReparto.Facturas.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\obj\x86\Debug\Cobranza.Principal.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\obj\x86\Debug\Cobranza.PrincipalCobranza.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\obj\x86\Debug\Cobranza.Properties.Resources.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\obj\x86\Debug\Cobranza.ReporteCrystal.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\obj\x86\Debug\Cobranza.SaldosNI.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\obj\x86\Debug\Cobranza.Score.NuevoObjetiv.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\obj\x86\Debug\Cobranza.Score.Objetivos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\obj\x86\Debug\Cobranza.ScocreCardGlobal.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\obj\x86\Debug\Cobranza.ScorecardSemanal.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\obj\x86\Debug\Cobranza.dll.licenses
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\obj\x86\Debug\Cobranza.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\obj\x86\Debug\Cobranza.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\obj\x86\Debug\Cobranza.Pagos.MovimientosNoI.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\obj\x86\Debug\Cobranza.Indicadores.AlertasPR.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\obj\x86\Debug\Cobranza.FacturasPendientes.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\obj\x86\Debug\Cobranza.Corcho.Causas.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\obj\x86\Debug\Cobranza.CorchoFrm.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Cobranza\obj\x86\Debug\Cobranza.DocsElectronicos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\bin\Debug\Resources\CorreosJefas.txt
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\bin\Debug\Cobranza.dll.config
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\bin\Debug\Cobranza.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\bin\Debug\Cobranza.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\bin\Debug\ClasesSGUV.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\bin\Debug\itextsharp.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\bin\Debug\Presupuesto.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\bin\Debug\ClasesSGUV.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\bin\Debug\Presupuesto.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\obj\x86\Debug\Cobranza.csproj.ResolveComReference.cache
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\obj\x86\Debug\Cobranza.AutorizacionNCRD.DetalleFacts.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\obj\x86\Debug\Cobranza.Catalogos.CatalogosCob.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\obj\x86\Debug\Cobranza.Contado.FacturasContado.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\obj\x86\Debug\Cobranza.Contado.Remisiones.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\obj\x86\Debug\Cobranza.Corcho.Causas.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\obj\x86\Debug\Cobranza.FacturasPendientes.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\obj\x86\Debug\Cobranza.GestionCobranza.AlertasCompromisos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\obj\x86\Debug\Cobranza.AntiguiedadSaldos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\obj\x86\Debug\Cobranza.GestionCobranza.CoberturaCartera.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\obj\x86\Debug\Cobranza.AntiguedadSaldos.NuevoCompromiso.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\obj\x86\Debug\Cobranza.AntiguedadSaldos.SeguimientoCompromisos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\obj\x86\Debug\Cobranza.Indicadores.AlertasPR.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\obj\x86\Debug\Cobranza.Indicadores.CorreosNCPendientes.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\obj\x86\Debug\Cobranza.DetallePagos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\obj\x86\Debug\Cobranza.Indicadores.DetalleNCPendientes.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\obj\x86\Debug\Cobranza.Indicares.InidicadoresMnsuales.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\obj\x86\Debug\Cobranza.Indicadores.NCPorAclarar.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\obj\x86\Debug\Cobranza.PagosClientes.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\obj\x86\Debug\Cobranza.Pagos.CargarExcel.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\obj\x86\Debug\Cobranza.Pagos.ConfirmarPagos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\obj\x86\Debug\Cobranza.Pagos.MovimientosNoI.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\obj\x86\Debug\Cobranza.Pagos.TemplateNC.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\obj\x86\Debug\Cobranza.Pagos.TemplateDemasias.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\obj\x86\Debug\Cobranza.Pagos.TempletePagos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\obj\x86\Debug\Cobranza.Pagos.Facturas.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\obj\x86\Debug\Cobranza.Pagos.FormConfirmacion.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\obj\x86\Debug\Cobranza.Pagos.IdentificacionMovimientos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\obj\x86\Debug\Cobranza.Pagos.TempleteNI.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\obj\x86\Debug\Cobranza.DocsElectronicos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\obj\x86\Debug\Cobranza.RecibosReparto.AuditoriaRecibos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\obj\x86\Debug\Cobranza.Cobranza1.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\obj\x86\Debug\Cobranza.DetalleAntiguedadSaldos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\obj\x86\Debug\Cobranza.Form1.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\obj\x86\Debug\Cobranza.RecibosReparto.Facturas.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\obj\x86\Debug\Cobranza.Principal.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\obj\x86\Debug\Cobranza.PrincipalCobranza.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\obj\x86\Debug\Cobranza.Properties.Resources.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\obj\x86\Debug\Cobranza.ReporteCrystal.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\obj\x86\Debug\Cobranza.SaldosNI.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\obj\x86\Debug\Cobranza.Score.NuevoObjetiv.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\obj\x86\Debug\Cobranza.Score.Objetivos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\obj\x86\Debug\Cobranza.ScocreCardGlobal.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\obj\x86\Debug\Cobranza.ScorecardSemanal.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\obj\x86\Debug\Cobranza.dll.licenses
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\obj\x86\Debug\Cobranza.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\obj\x86\Debug\Cobranza.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Cobranza\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\bin\Debug\Resources\CorreosJefas.txt
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\bin\Debug\Cobranza.dll.config
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\bin\Debug\Cobranza.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\bin\Debug\Cobranza.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\bin\Debug\ClasesSGUV.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\bin\Debug\itextsharp.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\bin\Debug\Presupuesto.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\bin\Debug\ClasesSGUV.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\bin\Debug\Presupuesto.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.csproj.ResolveComReference.cache
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.AutorizacionNCRD.DetalleFacts.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Catalogos.CatalogosCob.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Contado.FacturasContado.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Contado.Remisiones.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Corcho.Causas.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.FacturasPendientes.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.GestionCobranza.AlertasCompromisos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.AntiguiedadSaldos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.GestionCobranza.CoberturaCartera.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.AntiguedadSaldos.NuevoCompromiso.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.AntiguedadSaldos.SeguimientoCompromisos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Indicadores.AlertasPR.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Indicadores.CorreosNCPendientes.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.DetallePagos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Indicadores.DetalleNCPendientes.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Indicares.InidicadoresMnsuales.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Indicadores.NCPorAclarar.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.PagosClientes.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Pagos.CargarExcel.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Pagos.ConfirmarPagos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Pagos.MovimientosNoI.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Pagos.TemplateNC.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Pagos.TemplateDemasias.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Pagos.TempletePagos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Pagos.Facturas.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Pagos.FormConfirmacion.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Pagos.IdentificacionMovimientos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Pagos.TempleteNI.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.DocsElectronicos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.RecibosReparto.AuditoriaRecibos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Cobranza1.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.DetalleAntiguedadSaldos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Form1.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.RecibosReparto.Facturas.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Principal.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.PrincipalCobranza.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Properties.Resources.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.ReporteCrystal.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.SaldosNI.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Score.NuevoObjetiv.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Score.Objetivos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.ScocreCardGlobal.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.ScorecardSemanal.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.dll.licenses
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Corcho.RevFacturas.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.csproj.ResolveComReference.cache
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.AutorizacionNCRD.DetalleFacts.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Catalogos.CatalogosCob.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Contado.FacturasContado.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Contado.Remisiones.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Corcho.Causas.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.FacturasPendientes.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Corcho.RevFacturas.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.GestionCobranza.AlertasCompromisos.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.AntiguiedadSaldos.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.GestionCobranza.CoberturaCartera.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.AntiguedadSaldos.NuevoCompromiso.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.AntiguedadSaldos.SeguimientoCompromisos.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Indicadores.AlertasPR.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Indicadores.CorreosNCPendientes.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.DetallePagos.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Indicadores.DetalleNCPendientes.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Indicares.InidicadoresMnsuales.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Indicadores.NCPorAclarar.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.PagosClientes.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Pagos.CargarExcel.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Pagos.ConfirmarPagos.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Pagos.MovimientosNoI.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Pagos.TemplateNC.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Pagos.TemplateDemasias.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Pagos.TempletePagos.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Pagos.Facturas.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Pagos.FormConfirmacion.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Pagos.IdentificacionMovimientos.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Pagos.TempleteNI.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.DocsElectronicos.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.RecibosReparto.AuditoriaRecibos.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Cobranza1.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.DetalleAntiguedadSaldos.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Form1.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.RecibosReparto.Facturas.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Principal.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.PrincipalCobranza.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Properties.Resources.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.ReporteCrystal.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.SaldosNI.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Score.NuevoObjetiv.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Score.Objetivos.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.ScocreCardGlobal.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.ScorecardSemanal.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.dll.licenses
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\bin\Debug\Resources\CorreosJefas.txt
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\bin\Debug\Cobranza.dll.config
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\bin\Debug\Cobranza.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\bin\Debug\Cobranza.pdb
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\bin\Debug\ClasesSGUV.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\bin\Debug\itextsharp.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\bin\Debug\Presupuesto.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\bin\Debug\ClasesSGUV.pdb
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\bin\Debug\Presupuesto.pdb
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.pdb
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.csproj.ResolveComReference.cache
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.AutorizacionNCRD.DetalleFacts.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Catalogos.CatalogosCob.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Contado.FacturasContado.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Contado.Remisiones.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Corcho.Causas.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.FacturasPendientes.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Corcho.RevFacturas.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.GestionCobranza.AlertasCompromisos.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.AntiguiedadSaldos.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.GestionCobranza.CoberturaCartera.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.AntiguedadSaldos.NuevoCompromiso.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.AntiguedadSaldos.SeguimientoCompromisos.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Indicadores.AlertasPR.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Indicadores.CorreosNCPendientes.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.DetallePagos.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Indicadores.DetalleNCPendientes.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Indicares.InidicadoresMnsuales.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Indicadores.NCPorAclarar.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.PagosClientes.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Pagos.CargarExcel.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Pagos.ConfirmarPagos.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Pagos.MovimientosNoI.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Pagos.TemplateNC.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Pagos.TemplateDemasias.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Pagos.TempletePagos.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Pagos.Facturas.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Pagos.FormConfirmacion.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Pagos.IdentificacionMovimientos.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Pagos.TempleteNI.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.DocsElectronicos.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.RecibosReparto.AuditoriaRecibos.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Cobranza1.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.DetalleAntiguedadSaldos.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Form1.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.RecibosReparto.Facturas.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Principal.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.PrincipalCobranza.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Properties.Resources.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.ReporteCrystal.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.SaldosNI.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Score.NuevoObjetiv.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Score.Objetivos.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.ScocreCardGlobal.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.ScorecardSemanal.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.dll.licenses
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.dll
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\bin\Debug\Resources\CorreosJefas.txt
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\bin\Debug\Cobranza.dll.config
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\bin\Debug\Cobranza.dll
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\bin\Debug\Cobranza.pdb
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\bin\Debug\ClasesSGUV.dll
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\bin\Debug\itextsharp.dll
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\bin\Debug\Presupuesto.dll
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\bin\Debug\ClasesSGUV.pdb
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\bin\Debug\Presupuesto.pdb
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.pdb
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.ClasificacionClientes.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\bin\Debug\Resources\CorreosJefas.txt
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\bin\Debug\Cobranza.dll.config
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\bin\Debug\Cobranza.dll
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\bin\Debug\Cobranza.pdb
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\bin\Debug\ClasesSGUV.dll
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\bin\Debug\itextsharp.dll
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\bin\Debug\Presupuesto.dll
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\bin\Debug\ClasesSGUV.pdb
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\bin\Debug\Presupuesto.pdb
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.csproj.ResolveComReference.cache
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.AutorizacionNCRD.DetalleFacts.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Catalogos.CatalogosCob.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.ClasificacionClientes.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Contado.FacturasContado.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Contado.Remisiones.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Corcho.Causas.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.FacturasPendientes.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Corcho.RevFacturas.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.GestionCobranza.AlertasCompromisos.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.AntiguiedadSaldos.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.GestionCobranza.CoberturaCartera.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.AntiguedadSaldos.NuevoCompromiso.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.AntiguedadSaldos.SeguimientoCompromisos.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Indicadores.AlertasPR.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Indicadores.CorreosNCPendientes.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.DetallePagos.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Indicadores.DetalleNCPendientes.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Indicares.InidicadoresMnsuales.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Indicadores.NCPorAclarar.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.PagosClientes.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Pagos.CargarExcel.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Pagos.ConfirmarPagos.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Pagos.MovimientosNoI.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Pagos.TemplateNC.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Pagos.TemplateDemasias.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Pagos.TempletePagos.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Pagos.Facturas.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Pagos.FormConfirmacion.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Pagos.IdentificacionMovimientos.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Pagos.TempleteNI.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.DocsElectronicos.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.RecibosReparto.AuditoriaRecibos.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Cobranza1.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.DetalleAntiguedadSaldos.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Form1.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.RecibosReparto.Facturas.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Principal.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.PrincipalCobranza.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Properties.Resources.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.ReporteCrystal.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.SaldosNI.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Score.NuevoObjetiv.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Score.Objetivos.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.ScocreCardGlobal.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.ScorecardSemanal.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.dll.licenses
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.dll
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.pdb
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.GarantiasCob.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Corcho.TCTD.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.Corcho.TCTD.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Cobranza\obj\x86\Debug\Cobranza.GarantiasCob.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\bin\Debug\Resources\CorreosJefas.txt
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\bin\Debug\Cobranza.dll.config
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\bin\Debug\Cobranza.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\bin\Debug\Cobranza.pdb
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\bin\Debug\ClasesSGUV.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\bin\Debug\itextsharp.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\bin\Debug\Presupuesto.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\bin\Debug\ClasesSGUV.pdb
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\bin\Debug\Presupuesto.pdb
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.csproj.ResolveComReference.cache
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.AutorizacionNCRD.DetalleFacts.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.Catalogos.CatalogosCob.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.ClasificacionClientes.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.Contado.FacturasContado.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.Contado.Remisiones.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.Corcho.Causas.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.FacturasPendientes.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.Corcho.RevFacturas.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.Corcho.TCTD.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.GarantiasCob.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.GestionCobranza.AlertasCompromisos.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.AntiguiedadSaldos.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.GestionCobranza.CoberturaCartera.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.AntiguedadSaldos.NuevoCompromiso.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.AntiguedadSaldos.SeguimientoCompromisos.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.Indicadores.AlertasPR.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.Indicadores.CorreosNCPendientes.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.DetallePagos.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.Indicadores.DetalleNCPendientes.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.Indicares.InidicadoresMnsuales.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.Indicadores.NCPorAclarar.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.PagosClientes.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.Pagos.CargarExcel.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.Pagos.ConfirmarPagos.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.Pagos.MovimientosNoI.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.Pagos.TemplateNC.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.Pagos.TemplateDemasias.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.Pagos.TempletePagos.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.Pagos.Facturas.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.Pagos.FormConfirmacion.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.Pagos.IdentificacionMovimientos.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.Pagos.TempleteNI.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.DocsElectronicos.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.RecibosReparto.AuditoriaRecibos.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.Cobranza1.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.DetalleAntiguedadSaldos.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.Form1.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.RecibosReparto.Facturas.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.Principal.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.PrincipalCobranza.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.Properties.Resources.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.ReporteCrystal.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.SaldosNI.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.Score.NuevoObjetiv.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.Score.Objetivos.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.ScocreCardGlobal.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.ScorecardSemanal.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.dll.licenses
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.pdb
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.Atradius.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.DatosMes.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.AtradiusHistoricos.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.ClientesAtradius.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Cobranza\obj\x86\Debug\Cobranza.Reporte_MEP_Atradius.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\bin\Debug\Resources\CorreosJefas.txt
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\bin\Debug\Cobranza.dll.config
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\bin\Debug\Cobranza.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\bin\Debug\Cobranza.pdb
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\bin\Debug\ClasesSGUV.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\bin\Debug\itextsharp.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\bin\Debug\Presupuesto.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\bin\Debug\ClasesSGUV.pdb
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\bin\Debug\Presupuesto.pdb
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.csproj.ResolveComReference.cache
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.Atradius.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.AtradiusHistoricos.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.ClientesAtradius.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.DatosMes.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.Reporte_MEP_Atradius.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.AutorizacionNCRD.DetalleFacts.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.Catalogos.CatalogosCob.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.ClasificacionClientes.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.Contado.FacturasContado.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.Contado.Remisiones.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.Corcho.Causas.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.FacturasPendientes.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.Corcho.RevFacturas.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.Corcho.TCTD.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.GarantiasCob.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.GestionCobranza.AlertasCompromisos.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.AntiguiedadSaldos.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.GestionCobranza.CoberturaCartera.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.AntiguedadSaldos.NuevoCompromiso.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.AntiguedadSaldos.SeguimientoCompromisos.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.Indicadores.AlertasPR.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.Indicadores.CorreosNCPendientes.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.DetallePagos.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.Indicadores.DetalleNCPendientes.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.Indicares.InidicadoresMnsuales.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.Indicadores.NCPorAclarar.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.PagosClientes.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.Pagos.CargarExcel.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.Pagos.ConfirmarPagos.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.Pagos.MovimientosNoI.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.Pagos.TemplateNC.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.Pagos.TemplateDemasias.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.Pagos.TempletePagos.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.Pagos.Facturas.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.Pagos.FormConfirmacion.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.Pagos.IdentificacionMovimientos.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.Pagos.TempleteNI.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.DocsElectronicos.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.RecibosReparto.AuditoriaRecibos.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.Cobranza1.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.DetalleAntiguedadSaldos.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.Form1.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.RecibosReparto.Facturas.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.Principal.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.PrincipalCobranza.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.Properties.Resources.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.ReporteCrystal.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.SaldosNI.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.Score.NuevoObjetiv.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.Score.Objetivos.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.ScocreCardGlobal.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.ScorecardSemanal.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.dll.licenses
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.pdb
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Cobranza\obj\x86\Debug\Cobranza.PagosProrrogas.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\bin\Debug\Resources\CorreosJefas.txt
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\bin\Debug\Cobranza.dll.config
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\bin\Debug\Cobranza.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\bin\Debug\Cobranza.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\bin\Debug\ClasesSGUV.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\bin\Debug\itextsharp.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\bin\Debug\Presupuesto.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\bin\Debug\ClasesSGUV.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\bin\Debug\Presupuesto.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.csproj.ResolveComReference.cache
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.Atradius.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.AtradiusHistoricos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.ClientesAtradius.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.DatosMes.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.PagosProrrogas.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.Reporte_MEP_Atradius.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.AutorizacionNCRD.DetalleFacts.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.Catalogos.CatalogosCob.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.ClasificacionClientes.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.Contado.FacturasContado.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.Contado.Remisiones.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.Corcho.Causas.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.FacturasPendientes.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.Corcho.RevFacturas.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.Corcho.TCTD.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.GarantiasCob.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.GestionCobranza.AlertasCompromisos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.AntiguiedadSaldos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.GestionCobranza.CoberturaCartera.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.AntiguedadSaldos.NuevoCompromiso.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.AntiguedadSaldos.SeguimientoCompromisos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.Indicadores.AlertasPR.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.Indicadores.CorreosNCPendientes.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.DetallePagos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.Indicadores.DetalleNCPendientes.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.Indicares.InidicadoresMnsuales.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.Indicadores.NCPorAclarar.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.PagosClientes.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.Pagos.CargarExcel.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.Pagos.ConfirmarPagos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.Pagos.MovimientosNoI.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.Pagos.TemplateNC.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.Pagos.TemplateDemasias.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.Pagos.TempletePagos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.Pagos.Facturas.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.Pagos.FormConfirmacion.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.Pagos.IdentificacionMovimientos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.Pagos.TempleteNI.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.DocsElectronicos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.RecibosReparto.AuditoriaRecibos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.Cobranza1.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.DetalleAntiguedadSaldos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.Form1.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.RecibosReparto.Facturas.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.Principal.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.PrincipalCobranza.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.Properties.Resources.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.ReporteCrystal.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.SaldosNI.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.Score.NuevoObjetiv.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.Score.Objetivos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.ScocreCardGlobal.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.ScorecardSemanal.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.dll.licenses
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Cobranza\obj\x86\Debug\Cobranza.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\bin\Debug\Resources\CorreosJefas.txt
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\bin\Debug\Cobranza.dll.config
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\bin\Debug\Cobranza.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\bin\Debug\Cobranza.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\bin\Debug\ClasesSGUV.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\bin\Debug\itextsharp.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\bin\Debug\Presupuesto.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\bin\Debug\ClasesSGUV.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\bin\Debug\Presupuesto.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.csproj.ResolveComReference.cache
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.Atradius.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.AtradiusHistoricos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.ClientesAtradius.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.DatosMes.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.PagosProrrogas.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.Reporte_MEP_Atradius.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.AutorizacionNCRD.DetalleFacts.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.Catalogos.CatalogosCob.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.ClasificacionClientes.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.Contado.FacturasContado.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.Contado.Remisiones.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.Corcho.Causas.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.FacturasPendientes.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.Corcho.RevFacturas.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.Corcho.TCTD.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.frmMttoBancos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.frmReporteBancos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.frmReporteCuentaBanco.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.GarantiasCob.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.GestionCobranza.AlertasCompromisos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.AntiguiedadSaldos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.GestionCobranza.CoberturaCartera.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.AntiguedadSaldos.NuevoCompromiso.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.AntiguedadSaldos.SeguimientoCompromisos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.Indicadores.AlertasPR.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.Indicadores.CorreosNCPendientes.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.Indicadores.IndicadorDias.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.Indicadores.IndicadoresSucursal.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.Indicadores.IndicadorPP.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.Indicadores.IndicadorReferencias.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.DetallePagos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.Indicadores.DetalleNCPendientes.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.Indicares.InidicadoresMnsuales.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.Indicadores.NCPorAclarar.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.PagosClientes.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.Pagos.CargarExcel.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.Pagos.ConfirmarPagos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.Pagos.MovimientosNoI.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.Pagos.TemplateNC.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.Pagos.TemplateDemasias.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.Pagos.TempletePagos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.Pagos.Facturas.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.Pagos.FormConfirmacion.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.Pagos.IdentificacionMovimientos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.Pagos.TempleteNI.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.DocsElectronicos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.RecibosReparto.AuditoriaRecibos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.Cobranza1.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.DetalleAntiguedadSaldos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.Form1.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.RecibosReparto.Facturas.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.Principal.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.PrincipalCobranza.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.Properties.Resources.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.ReporteCrystal.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.ReportePP.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.SaldosNI.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.Score.NuevoObjetiv.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.Score.Objetivos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.ScocreCardGlobal.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.ScorecardSemanal.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.dll.licenses
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Cobranza\obj\x86\Debug\Cobranza.frmFechaSiniestro.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\bin\Debug\Resources\CorreosJefas.txt
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\bin\Debug\Cobranza.dll.config
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\bin\Debug\Cobranza.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\bin\Debug\Cobranza.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\bin\Debug\ClasesSGUV.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\bin\Debug\itextsharp.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\bin\Debug\Presupuesto.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\bin\Debug\ClasesSGUV.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\bin\Debug\Presupuesto.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.csproj.ResolveComReference.cache
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.AtradiusHistoricos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.ClientesAtradius.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.DatosMes.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.frmFechaSiniestro.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.PagosProrrogas.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.Reporte_MEP_Atradius.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.AutorizacionNCRD.DetalleFacts.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.Catalogos.CatalogosCob.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.ClasificacionClientes.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.Contado.FacturasContado.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.Corcho.Causas.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.FacturasPendientes.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.Corcho.RevFacturas.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.Corcho.TCTD.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.frmMttoBancos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.frmReporteBancos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.frmReporteCuentaBanco.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.GarantiasCob.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.GestionCobranza.AlertasCompromisos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.AntiguiedadSaldos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.GestionCobranza.CoberturaCartera.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.AntiguedadSaldos.NuevoCompromiso.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.AntiguedadSaldos.SeguimientoCompromisos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.Indicadores.AlertasPR.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.Indicadores.CorreosNCPendientes.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.Indicadores.IndicadorDias.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.Indicadores.IndicadoresSucursal.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.Indicadores.IndicadorPP.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.Indicadores.IndicadorReferencias.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.DetallePagos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.Indicadores.DetalleNCPendientes.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.Indicares.InidicadoresMnsuales.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.Indicadores.NCPorAclarar.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.PagosClientes.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.DocsElectronicos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.RecibosReparto.AuditoriaRecibos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.Cobranza1.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.DetalleAntiguedadSaldos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.Form1.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.RecibosReparto.Facturas.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.Principal.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.Properties.Resources.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.ReporteCrystal.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.ReportePP.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.Score.NuevoObjetiv.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.Score.Objetivos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.ScocreCardGlobal.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.ScorecardSemanal.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.Pagos.frmIdentificarMovs.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.Pagos.frmConfirmarPagos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.Pagos.frmConfirmacion.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.frmDepositos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.Atradius.frmAtradius.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.frmAtradiusJuridico.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.GestionCobranza.frmLlamadas.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.GestionCobranza.frmEdoCuenta.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.frmSaldosNI.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.Pagos.frmCargarExcel.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.Pagos.frmMovimientosNoI.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.Pagos.frmTemplateNC.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.Pagos.frmTemplateDemasias.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.Pagos.frmTempletePagos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.Pagos.frmFacturas.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.Pagos.frmTempleteNI.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.Pagos.frmAuditoria.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.frmFacturasBrincadas.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.ReportesVarios.frmHistorialVentasPagos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.ReportesVarios.frmCreditosDesuso.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.Contado.frmRemisiones.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.frmTemplateNC.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.Corcho.frmCorteCaja.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.GestionCobranza.frmAuditoriaEdoCta.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Cobranza\obj\x86\Debug\Cobranza.Contado.frm_ReciboPago.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\bin\Debug\Resources\CorreosJefas.txt
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\bin\Debug\Cobranza.dll.config
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\bin\Debug\Cobranza.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\bin\Debug\Cobranza.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\bin\Debug\ClasesSGUV.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\bin\Debug\itextsharp.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\bin\Debug\Presupuesto.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\bin\Debug\ClasesSGUV.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\bin\Debug\Presupuesto.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.csproj.ResolveComReference.cache
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Atradius.frmAtradius.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.AtradiusHistoricos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.ClientesAtradius.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.DatosMes.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.frmAtradiusJuridico.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.frmFechaSiniestro.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.PagosProrrogas.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Reporte_MEP_Atradius.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.AutorizacionNCRD.DetalleFacts.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Catalogos.CatalogosCob.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.ClasificacionClientes.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Contado.FacturasContado.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Contado.frmRemisiones.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Contado.frm_ReciboPago.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Corcho.Causas.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.FacturasPendientes.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Corcho.frmCorteCaja.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Corcho.RevFacturas.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Corcho.TCTD.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.frmDepositos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.frmMttoBancos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.frmReporteBancos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.frmReporteCuentaBanco.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.frmTemplateNC.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.GestionCobranza.frmAuditoriaEdoCta.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.ReportesVarios.frmCreditosDesuso.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.frmFacturasBrincadas.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.GarantiasCob.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.GestionCobranza.AlertasCompromisos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.GestionCobranza.frmEdoCuenta.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.GestionCobranza.frmLlamadas.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.AntiguiedadSaldos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.GestionCobranza.CoberturaCartera.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.AntiguedadSaldos.NuevoCompromiso.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.AntiguedadSaldos.SeguimientoCompromisos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Indicadores.AlertasPR.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Indicadores.CorreosNCPendientes.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Indicadores.IndicadorDias.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Indicadores.IndicadoresSucursal.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Indicadores.IndicadorPP.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Indicadores.IndicadorReferencias.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Pagos.frmAuditoria.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.DetallePagos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Indicadores.DetalleNCPendientes.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Indicares.InidicadoresMnsuales.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Indicadores.NCPorAclarar.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.PagosClientes.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Pagos.frmCargarExcel.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Pagos.frmConfirmarPagos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Pagos.frmMovimientosNoI.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Pagos.frmTemplateNC.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Pagos.frmTemplateDemasias.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Pagos.frmTempletePagos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Pagos.frmFacturas.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Pagos.frmConfirmacion.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Pagos.frmIdentificarMovs.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Pagos.frmTempleteNI.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.DocsElectronicos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.RecibosReparto.AuditoriaRecibos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Cobranza1.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.DetalleAntiguedadSaldos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Form1.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.RecibosReparto.Facturas.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Principal.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Properties.Resources.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.ReporteCrystal.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.ReportesVarios.frmHistorialVentasPagos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.ReportePP.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.frmSaldosNI.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Score.NuevoObjetiv.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Score.Objetivos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.ScocreCardGlobal.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.ScorecardSemanal.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\bin\Debug\Resources\CorreosJefas.txt
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\bin\Debug\Cobranza.dll.config
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\bin\Debug\Cobranza.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\bin\Debug\Cobranza.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\bin\Debug\ClasesSGUV.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\bin\Debug\itextsharp.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\bin\Debug\Presupuesto.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\bin\Debug\ClasesSGUV.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\bin\Debug\Presupuesto.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.csproj.ResolveComReference.cache
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.Atradius.frmAtradius.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.AtradiusHistoricos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.ClientesAtradius.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.DatosMes.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.frmAtradiusJuridico.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.frmFechaSiniestro.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.PagosProrrogas.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.Reporte_MEP_Atradius.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.AutorizacionNCRD.DetalleFacts.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.Catalogos.CatalogosCob.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.ClasificacionClientes.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.Contado.FacturasContado.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.Contado.frmRemisiones.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.Contado.frm_ReciboPago.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.Corcho.Causas.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.FacturasPendientes.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.Corcho.frmCorteCaja.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.Corcho.RevFacturas.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.Corcho.TCTD.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.frmDepositos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.frmMttoBancos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.frmReporteBancos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.frmReporteCuentaBanco.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.frmTemplateNC.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.GestionCobranza.frmAuditoriaEdoCta.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.ReportesVarios.frmCreditosDesuso.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.frmFacturasBrincadas.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.GarantiasCob.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.GestionCobranza.AlertasCompromisos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.GestionCobranza.frmEdoCuenta.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.GestionCobranza.frmLlamadas.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.AntiguiedadSaldos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.GestionCobranza.CoberturaCartera.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.AntiguedadSaldos.NuevoCompromiso.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.AntiguedadSaldos.SeguimientoCompromisos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.Indicadores.AlertasPR.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.Indicadores.CorreosNCPendientes.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.Indicadores.IndicadorDias.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.Indicadores.IndicadoresSucursal.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.Indicadores.IndicadorPP.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.Indicadores.IndicadorReferencias.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.Pagos.frmAuditoria.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.DetallePagos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.Indicadores.DetalleNCPendientes.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.Indicares.InidicadoresMnsuales.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.Indicadores.NCPorAclarar.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.PagosClientes.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.Pagos.frmCargarExcel.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.Pagos.frmConfirmarPagos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.Pagos.frmMovimientosNoI.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.Pagos.frmTemplateNC.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.Pagos.frmTemplateDemasias.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.Pagos.frmTempletePagos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.Pagos.frmFacturas.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.Pagos.frmConfirmacion.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.Pagos.frmIdentificarMovs.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.Pagos.frmTempleteNI.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.DocsElectronicos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.RecibosReparto.AuditoriaRecibos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.Cobranza1.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.DetalleAntiguedadSaldos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.Form1.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.RecibosReparto.Facturas.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.Principal.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.Properties.Resources.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.ReporteCrystal.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.ReportesVarios.frmHistorialVentasPagos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.ReportePP.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.frmSaldosNI.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.Score.NuevoObjetiv.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.Score.Objetivos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.ScocreCardGlobal.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.ScorecardSemanal.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Cobranza\obj\x86\Debug\Cobranza.pdb
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\bin\Debug\Resources\CorreosJefas.txt
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\bin\Debug\Cobranza.dll.config
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\bin\Debug\Cobranza.dll
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\bin\Debug\Cobranza.pdb
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\bin\Debug\ClasesSGUV.dll
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\bin\Debug\itextsharp.dll
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\bin\Debug\Presupuesto.dll
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\bin\Debug\ClasesSGUV.pdb
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\bin\Debug\Presupuesto.pdb
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.csproj.ResolveComReference.cache
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Atradius.frmAtradius.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.AtradiusHistoricos.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.ClientesAtradius.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.DatosMes.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.frmAtradiusJuridico.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.frmFechaSiniestro.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.PagosProrrogas.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Reporte_MEP_Atradius.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.AutorizacionNCRD.DetalleFacts.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Catalogos.CatalogosCob.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.ClasificacionClientes.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Contado.FacturasContado.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Contado.frmRemisiones.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Contado.frm_ReciboPago.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Corcho.Causas.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.FacturasPendientes.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Corcho.frmCorteCaja.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Corcho.RevFacturas.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Corcho.TCTD.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.frmDepositos.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.frmMttoBancos.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.frmReporteBancos.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.frmReporteCuentaBanco.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.frmTemplateNC.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.GestionCobranza.frmAuditoriaEdoCta.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.ReportesVarios.frmCreditosDesuso.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.frmFacturasBrincadas.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.GarantiasCob.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.GestionCobranza.AlertasCompromisos.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.GestionCobranza.frmEdoCuenta.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.GestionCobranza.frmLlamadas.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.AntiguiedadSaldos.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.GestionCobranza.CoberturaCartera.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.AntiguedadSaldos.NuevoCompromiso.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.AntiguedadSaldos.SeguimientoCompromisos.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Indicadores.AlertasPR.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Indicadores.CorreosNCPendientes.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Indicadores.IndicadorDias.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Indicadores.IndicadoresSucursal.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Indicadores.IndicadorPP.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Indicadores.IndicadorReferencias.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Pagos.frmAuditoria.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.DetallePagos.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Indicadores.DetalleNCPendientes.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Indicares.InidicadoresMnsuales.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Indicadores.NCPorAclarar.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.PagosClientes.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Pagos.frmCargarExcel.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Pagos.frmConfirmarPagos.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Pagos.frmMovimientosNoI.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Pagos.frmTemplateNC.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Pagos.frmTemplateDemasias.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Pagos.frmTempletePagos.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Pagos.frmFacturas.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Pagos.frmConfirmacion.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Pagos.frmIdentificarMovs.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Pagos.frmTempleteNI.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.DocsElectronicos.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.RecibosReparto.AuditoriaRecibos.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Cobranza1.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.DetalleAntiguedadSaldos.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Form1.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.RecibosReparto.Facturas.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Principal.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Properties.Resources.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.ReporteCrystal.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.ReportesVarios.frmHistorialVentasPagos.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.ReportePP.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.frmSaldosNI.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Score.NuevoObjetiv.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.Score.Objetivos.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.ScocreCardGlobal.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.ScorecardSemanal.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.dll
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.pdb
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.GestionCobranza.frmComments.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Cobranza\obj\x86\Debug\Cobranza.GestionCobranza.frmNoLlamadas.resources

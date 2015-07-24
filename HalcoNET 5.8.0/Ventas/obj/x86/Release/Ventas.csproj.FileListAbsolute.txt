@@ -1,0 +1,2 @@
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Ventas\bin\Release\Ventas.exe.config
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Ventas\obj\x86\Release\Ventas.csproj.ResolveComReference.cache

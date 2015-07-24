@@ -1,0 +1,914 @@
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado\Ventas\Compras\bin\Debug\Compras.exe
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado\Ventas\Compras\bin\Debug\Compras.pdb
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado\Ventas\Compras\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado\Ventas\Compras\obj\x86\Debug\Compras.csproj.ResolveComReference.cache
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado\Ventas\Compras\obj\x86\Debug\Compras.Form1.resources
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado\Ventas\Compras\obj\x86\Debug\Compras.Properties.Resources.resources
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado\Ventas\Compras\obj\x86\Debug\Compras.Transferencias_Compras.Transferencias_Compras.resources
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado\Ventas\Compras\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado\Ventas\Compras\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado\Ventas\Compras\obj\x86\Debug\Compras.exe
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado\Ventas\Compras\obj\x86\Debug\Compras.pdb
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado - copia\Ventas\Compras\bin\Debug\Compras.exe.config
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado - copia\Ventas\Compras\bin\Debug\Compras.exe
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado - copia\Ventas\Compras\bin\Debug\Compras.pdb
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado - copia\Ventas\Compras\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado - copia\Ventas\Compras\obj\x86\Debug\Compras.csproj.ResolveComReference.cache
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado - copia\Ventas\Compras\obj\x86\Debug\Compras.Form1.resources
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado - copia\Ventas\Compras\obj\x86\Debug\Compras.EntradasMercancia.resources
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado - copia\Ventas\Compras\obj\x86\Debug\Compras.Properties.Resources.resources
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado - copia\Ventas\Compras\obj\x86\Debug\Compras.Transferencias_Compras.Transferencias_Compras.resources
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado - copia\Ventas\Compras\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado - copia\Ventas\Compras\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado - copia\Ventas\Compras\obj\x86\Debug\Compras.exe
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v2.8 modificado - copia\Ventas\Compras\obj\x86\Debug\Compras.pdb
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5\Ventas\Compras\bin\Debug\Compras.exe.config
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5\Ventas\Compras\bin\Debug\Compras.exe
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5\Ventas\Compras\bin\Debug\Compras.pdb
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5\Ventas\Compras\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5\Ventas\Compras\obj\x86\Debug\Compras.csproj.ResolveComReference.cache
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5\Ventas\Compras\obj\x86\Debug\Compras.Form1.resources
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5\Ventas\Compras\obj\x86\Debug\Compras.EntradasMercancia.resources
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5\Ventas\Compras\obj\x86\Debug\Compras.Properties.Resources.resources
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5\Ventas\Compras\obj\x86\Debug\Compras.Transferencias_Compras.Transferencias_Compras.resources
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5\Ventas\Compras\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5\Ventas\Compras\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5\Ventas\Compras\obj\x86\Debug\Compras.exe
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5\Ventas\Compras\obj\x86\Debug\Compras.pdb
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5.3\Ventas\Compras\bin\Debug\Compras.exe.config
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5.3\Ventas\Compras\bin\Debug\Compras.exe
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5.3\Ventas\Compras\bin\Debug\Compras.pdb
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5.3\Ventas\Compras\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5.3\Ventas\Compras\obj\x86\Debug\Compras.csproj.ResolveComReference.cache
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5.3\Ventas\Compras\obj\x86\Debug\Compras.Form1.resources
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5.3\Ventas\Compras\obj\x86\Debug\Compras.Desabasto.resources
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5.3\Ventas\Compras\obj\x86\Debug\Compras.EntradasMercancia.resources
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5.3\Ventas\Compras\obj\x86\Debug\Compras.Properties.Resources.resources
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5.3\Ventas\Compras\obj\x86\Debug\Compras.Transferencias_Compras.Transferencias_Compras.resources
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5.3\Ventas\Compras\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5.3\Ventas\Compras\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5.3\Ventas\Compras\obj\x86\Debug\Compras.exe
+C:\Users\Desarrollo\Desktop\Proyectos\VentasOK v4.5.3\Ventas\Compras\obj\x86\Debug\Compras.pdb
+\\192.168.2.159\Reportes Facturas\VentasOK v4.5.3\Ventas\Compras\bin\Debug\Compras.exe.config
+\\192.168.2.159\Reportes Facturas\VentasOK v4.5.3\Ventas\Compras\bin\Debug\Compras.exe
+\\192.168.2.159\Reportes Facturas\VentasOK v4.5.3\Ventas\Compras\bin\Debug\Compras.pdb
+\\192.168.2.159\Reportes Facturas\VentasOK v4.5.3\Ventas\Compras\obj\x86\Debug\Compras.csproj.ResolveComReference.cache
+\\192.168.2.159\Reportes Facturas\VentasOK v4.5.3\Ventas\Compras\obj\x86\Debug\Compras.Form1.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.5.3\Ventas\Compras\obj\x86\Debug\Compras.Desabasto.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.5.3\Ventas\Compras\obj\x86\Debug\Compras.EntradasMercancia.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.5.3\Ventas\Compras\obj\x86\Debug\Compras.Properties.Resources.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.5.3\Ventas\Compras\obj\x86\Debug\Compras.Transferencias_Compras.Transferencias_Compras.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.5.3\Ventas\Compras\obj\x86\Debug\Compras.csproj.GenerateResource.Cache
+\\192.168.2.159\Reportes Facturas\VentasOK v4.5.3\Ventas\Compras\obj\x86\Debug\Compras.exe
+\\192.168.2.159\Reportes Facturas\VentasOK v4.5.3\Ventas\Compras\obj\x86\Debug\Compras.pdb
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.5.3\Ventas\Compras\bin\Debug\Compras.exe.config
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.5.3\Ventas\Compras\bin\Debug\Compras.exe
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.5.3\Ventas\Compras\bin\Debug\Compras.pdb
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.5.3\Ventas\Compras\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.5.3\Ventas\Compras\obj\x86\Debug\Compras.csproj.ResolveComReference.cache
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.5.3\Ventas\Compras\obj\x86\Debug\Compras.Form1.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.5.3\Ventas\Compras\obj\x86\Debug\Compras.Desabasto.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.5.3\Ventas\Compras\obj\x86\Debug\Compras.EntradasMercancia.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.5.3\Ventas\Compras\obj\x86\Debug\Compras.Properties.Resources.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.5.3\Ventas\Compras\obj\x86\Debug\Compras.Transferencias_Compras.Transferencias_Compras.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.5.3\Ventas\Compras\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.5.3\Ventas\Compras\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.5.3\Ventas\Compras\obj\x86\Debug\Compras.exe
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.5.3\Ventas\Compras\obj\x86\Debug\Compras.pdb
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6\Ventas\Compras\bin\Debug\Compras.exe.config
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6\Ventas\Compras\bin\Debug\Compras.exe
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6\Ventas\Compras\bin\Debug\Compras.pdb
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6\Ventas\Compras\obj\x86\Debug\Compras.csproj.ResolveComReference.cache
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6\Ventas\Compras\obj\x86\Debug\Compras.Form1.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6\Ventas\Compras\obj\x86\Debug\Compras.Desabasto.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6\Ventas\Compras\obj\x86\Debug\Compras.EntradasMercancia.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6\Ventas\Compras\obj\x86\Debug\Compras.Properties.Resources.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6\Ventas\Compras\obj\x86\Debug\Compras.Transferencias_Compras.Transferencias_Compras.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6\Ventas\Compras\obj\x86\Debug\Compras.csproj.GenerateResource.Cache
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6\Ventas\Compras\obj\x86\Debug\Compras.exe
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6\Ventas\Compras\obj\x86\Debug\Compras.pdb
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6\Ventas\Compras\bin\Debug\Compras.exe.config
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6\Ventas\Compras\bin\Debug\Compras.exe
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6\Ventas\Compras\bin\Debug\Compras.pdb
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6\Ventas\Compras\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6\Ventas\Compras\obj\x86\Debug\Compras.csproj.ResolveComReference.cache
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6\Ventas\Compras\obj\x86\Debug\Compras.Form1.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6\Ventas\Compras\obj\x86\Debug\Compras.Desabasto.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6\Ventas\Compras\obj\x86\Debug\Compras.EntradasMercancia.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6\Ventas\Compras\obj\x86\Debug\Compras.Properties.Resources.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6\Ventas\Compras\obj\x86\Debug\Compras.Transferencias_Compras.Transferencias_Compras.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6\Ventas\Compras\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6\Ventas\Compras\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6\Ventas\Compras\obj\x86\Debug\Compras.exe
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6\Ventas\Compras\obj\x86\Debug\Compras.pdb
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1\Ventas\Compras\bin\Debug\Compras.exe.config
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1\Ventas\Compras\bin\Debug\Compras.exe
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1\Ventas\Compras\bin\Debug\Compras.pdb
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1\Ventas\Compras\obj\x86\Debug\Compras.csproj.ResolveComReference.cache
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1\Ventas\Compras\obj\x86\Debug\Compras.Form1.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1\Ventas\Compras\obj\x86\Debug\Compras.Desabasto.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1\Ventas\Compras\obj\x86\Debug\Compras.EntradasMercancia.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1\Ventas\Compras\obj\x86\Debug\Compras.Properties.Resources.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1\Ventas\Compras\obj\x86\Debug\Compras.Transferencias_Compras.Transferencias_Compras.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1\Ventas\Compras\obj\x86\Debug\Compras.csproj.GenerateResource.Cache
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1\Ventas\Compras\obj\x86\Debug\Compras.exe
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1\Ventas\Compras\obj\x86\Debug\Compras.pdb
+\\DESARROLLO-PJ\Reportes Facturas\VentasOK v4.6.1\Ventas\Compras\bin\Debug\Compras.exe.config
+\\DESARROLLO-PJ\Reportes Facturas\VentasOK v4.6.1\Ventas\Compras\bin\Debug\Compras.exe
+\\DESARROLLO-PJ\Reportes Facturas\VentasOK v4.6.1\Ventas\Compras\bin\Debug\Compras.pdb
+\\DESARROLLO-PJ\Reportes Facturas\VentasOK v4.6.1\Ventas\Compras\obj\x86\Debug\ResolveAssemblyReference.cache
+\\DESARROLLO-PJ\Reportes Facturas\VentasOK v4.6.1\Ventas\Compras\obj\x86\Debug\Compras.csproj.ResolveComReference.cache
+\\DESARROLLO-PJ\Reportes Facturas\VentasOK v4.6.1\Ventas\Compras\obj\x86\Debug\Compras.Form1.resources
+\\DESARROLLO-PJ\Reportes Facturas\VentasOK v4.6.1\Ventas\Compras\obj\x86\Debug\Compras.Desabasto.resources
+\\DESARROLLO-PJ\Reportes Facturas\VentasOK v4.6.1\Ventas\Compras\obj\x86\Debug\Compras.EntradasMercancia.resources
+\\DESARROLLO-PJ\Reportes Facturas\VentasOK v4.6.1\Ventas\Compras\obj\x86\Debug\Compras.Remate_devolucion.resources
+\\DESARROLLO-PJ\Reportes Facturas\VentasOK v4.6.1\Ventas\Compras\obj\x86\Debug\Compras.Properties.Resources.resources
+\\DESARROLLO-PJ\Reportes Facturas\VentasOK v4.6.1\Ventas\Compras\obj\x86\Debug\Compras.Reubicaciones.resources
+\\DESARROLLO-PJ\Reportes Facturas\VentasOK v4.6.1\Ventas\Compras\obj\x86\Debug\Compras.Transferencias_Compras.Transferencias_Compras.resources
+\\DESARROLLO-PJ\Reportes Facturas\VentasOK v4.6.1\Ventas\Compras\obj\x86\Debug\GenerateResource.read.1.tlog
+\\DESARROLLO-PJ\Reportes Facturas\VentasOK v4.6.1\Ventas\Compras\obj\x86\Debug\GenerateResource.write.1.tlog
+\\DESARROLLO-PJ\Reportes Facturas\VentasOK v4.6.1\Ventas\Compras\obj\x86\Debug\Compras.exe
+\\DESARROLLO-PJ\Reportes Facturas\VentasOK v4.6.1\Ventas\Compras\obj\x86\Debug\Compras.pdb
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1\Ventas\Compras\obj\x86\Debug\Compras.Remate_devolucion.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1\Ventas\Compras\obj\x86\Debug\Compras.Reubicaciones.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Compras\bin\Debug\Compras.exe.config
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Compras\bin\Debug\Compras.exe
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Compras\bin\Debug\Compras.pdb
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Compras\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Compras\obj\x86\Debug\Compras.csproj.ResolveComReference.cache
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Compras\obj\x86\Debug\Compras.ClasificacionABC.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Compras\obj\x86\Debug\Compras.Form1.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Compras\obj\x86\Debug\Compras.Desabasto.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Compras\obj\x86\Debug\Compras.EntradasMercancia.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Compras\obj\x86\Debug\Compras.HistorialVentas.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Compras\obj\x86\Debug\Compras.IdealxLinea.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Compras\obj\x86\Debug\Compras.Remate_devolucion.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Compras\obj\x86\Debug\Compras.Properties.Resources.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Compras\obj\x86\Debug\Compras.Reubicaciones.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Compras\obj\x86\Debug\Compras.SeguimientoCompras.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Compras\obj\x86\Debug\Compras.SeguimientoComprasVendedores.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Compras\obj\x86\Debug\Compras.Transferencias_Compras.Transferencias_Compras.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Compras\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Compras\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Compras\obj\x86\Debug\Compras.exe
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1\Ventas\Compras\obj\x86\Debug\Compras.pdb
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Compras\bin\Debug\Compras.exe.config
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Compras\bin\Debug\Compras.exe
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Compras\bin\Debug\Compras.pdb
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Compras\obj\x86\Debug\Compras.csproj.ResolveComReference.cache
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Compras\obj\x86\Debug\Compras.ClasificacionABC.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Compras\obj\x86\Debug\Compras.Form1.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Compras\obj\x86\Debug\Compras.Desabasto.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Compras\obj\x86\Debug\Compras.EntradasMercancia.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Compras\obj\x86\Debug\Compras.HistorialVentas.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Compras\obj\x86\Debug\Compras.IdealxLinea.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Compras\obj\x86\Debug\Compras.Remate_devolucion.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Compras\obj\x86\Debug\Compras.Properties.Resources.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Compras\obj\x86\Debug\Compras.Reubicaciones.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Compras\obj\x86\Debug\Compras.SeguimientoCompras.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Compras\obj\x86\Debug\Compras.SeguimientoComprasVendedores.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Compras\obj\x86\Debug\Compras.Transferencias_Compras.Transferencias_Compras.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Compras\obj\x86\Debug\Compras.csproj.GenerateResource.Cache
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Compras\obj\x86\Debug\Compras.exe
+\\192.168.2.159\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Compras\obj\x86\Debug\Compras.pdb
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Compras\bin\Debug\Compras.exe.config
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Compras\bin\Debug\Compras.exe
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Compras\bin\Debug\Compras.pdb
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Compras\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Compras\obj\x86\Debug\Compras.csproj.ResolveComReference.cache
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Compras\obj\x86\Debug\Compras.ClasificacionABC.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Compras\obj\x86\Debug\Compras.Form1.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Compras\obj\x86\Debug\Compras.Desabasto.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Compras\obj\x86\Debug\Compras.EntradasMercancia.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Compras\obj\x86\Debug\Compras.HistorialVentas.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Compras\obj\x86\Debug\Compras.IdealxLinea.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Compras\obj\x86\Debug\Compras.Remate_devolucion.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Compras\obj\x86\Debug\Compras.Properties.Resources.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Compras\obj\x86\Debug\Compras.Reubicaciones.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Compras\obj\x86\Debug\Compras.SeguimientoCompras.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Compras\obj\x86\Debug\Compras.SeguimientoComprasVendedores.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Compras\obj\x86\Debug\Compras.Transferencias_Compras.Transferencias_Compras.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Compras\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Compras\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Compras\obj\x86\Debug\Compras.exe
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v4.6.1 - copia\Ventas\Compras\obj\x86\Debug\Compras.pdb
+\\192.168.2.159\Reportes Facturas\VentasOK v 4.7.0\Ventas\Compras\bin\Debug\Compras.exe.config
+\\192.168.2.159\Reportes Facturas\VentasOK v 4.7.0\Ventas\Compras\bin\Debug\Compras.exe
+\\192.168.2.159\Reportes Facturas\VentasOK v 4.7.0\Ventas\Compras\bin\Debug\Compras.pdb
+\\192.168.2.159\Reportes Facturas\VentasOK v 4.7.0\Ventas\Compras\obj\x86\Debug\Compras.csproj.ResolveComReference.cache
+\\192.168.2.159\Reportes Facturas\VentasOK v 4.7.0\Ventas\Compras\obj\x86\Debug\Compras.ClasificacionABC.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v 4.7.0\Ventas\Compras\obj\x86\Debug\Compras.Form1.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v 4.7.0\Ventas\Compras\obj\x86\Debug\Compras.Desabasto.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v 4.7.0\Ventas\Compras\obj\x86\Debug\Compras.EntradasMercancia.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v 4.7.0\Ventas\Compras\obj\x86\Debug\Compras.HistorialVentas.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v 4.7.0\Ventas\Compras\obj\x86\Debug\Compras.IdealxLinea.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v 4.7.0\Ventas\Compras\obj\x86\Debug\Compras.Remate_devolucion.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v 4.7.0\Ventas\Compras\obj\x86\Debug\Compras.Properties.Resources.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v 4.7.0\Ventas\Compras\obj\x86\Debug\Compras.Reubicaciones.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v 4.7.0\Ventas\Compras\obj\x86\Debug\Compras.SeguimientoCompras.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v 4.7.0\Ventas\Compras\obj\x86\Debug\Compras.SeguimientoComprasVendedores.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v 4.7.0\Ventas\Compras\obj\x86\Debug\Compras.Transferencias_Compras.Transferencias_Compras.resources
+\\192.168.2.159\Reportes Facturas\VentasOK v 4.7.0\Ventas\Compras\obj\x86\Debug\Compras.csproj.GenerateResource.Cache
+\\192.168.2.159\Reportes Facturas\VentasOK v 4.7.0\Ventas\Compras\obj\x86\Debug\Compras.exe
+\\192.168.2.159\Reportes Facturas\VentasOK v 4.7.0\Ventas\Compras\obj\x86\Debug\Compras.pdb
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Compras\bin\Debug\Compras.dll.config
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Compras\bin\Debug\Compras.dll
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Compras\bin\Debug\Compras.pdb
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Compras\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Compras\obj\x86\Debug\Compras.csproj.ResolveComReference.cache
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Compras\obj\x86\Debug\Compras.ClasificacionABC.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Compras\obj\x86\Debug\Compras.Form1.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Compras\obj\x86\Debug\Compras.Desabasto.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Compras\obj\x86\Debug\Compras.EntradasMercancia.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Compras\obj\x86\Debug\Compras.HistorialVentas.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Compras\obj\x86\Debug\Compras.IdealxLinea.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Compras\obj\x86\Debug\Compras.Remate_devolucion.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Compras\obj\x86\Debug\Compras.Properties.Resources.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Compras\obj\x86\Debug\Compras.Reubicaciones.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Compras\obj\x86\Debug\Compras.SeguimientoCompras.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Compras\obj\x86\Debug\Compras.SeguimientoComprasVendedores.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Compras\obj\x86\Debug\Compras.Transferencias_Compras.Transferencias_Compras.resources
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Compras\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Compras\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Compras\obj\x86\Debug\Compras.dll
+C:\Users\Desarrollo\Desktop\Reportes Facturas\VentasOK v 4.7.0\Ventas\Compras\obj\x86\Debug\Compras.pdb
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Compras\bin\Debug\Compras.dll.config
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Compras\bin\Debug\Compras.dll
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Compras\bin\Debug\Compras.pdb
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Compras\bin\Debug\Cobranza.dll
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Compras\bin\Debug\Presupuesto.dll
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Compras\bin\Debug\Cobranza.pdb
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Compras\bin\Debug\Presupuesto.pdb
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Compras\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Compras\obj\x86\Debug\Compras.csproj.ResolveComReference.cache
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Compras\obj\x86\Debug\Compras.ClasificacionABC.resources
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Compras\obj\x86\Debug\Compras.Form1.resources
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Compras\obj\x86\Debug\Compras.Desabasto.resources
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Compras\obj\x86\Debug\Compras.EntradasMercancia.resources
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Compras\obj\x86\Debug\Compras.HistorialVentas.resources
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Compras\obj\x86\Debug\Compras.IdealxLinea.resources
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Compras\obj\x86\Debug\Compras.AnalisisCompras.resources
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Compras\obj\x86\Debug\Compras.Properties.Resources.resources
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Compras\obj\x86\Debug\Compras.Reubicaciones.resources
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Compras\obj\x86\Debug\Compras.SeguimientoCompras.resources
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Compras\obj\x86\Debug\Compras.SeguimientoComprasVendedores.resources
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Compras\obj\x86\Debug\Compras.Solicitudes.CatalogoArticulos.resources
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Compras\obj\x86\Debug\Compras.Solicitudes.PPC.resources
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Compras\obj\x86\Debug\Compras.Transferencias_Compras.Transferencias_Compras.resources
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Compras\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Compras\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Compras\obj\x86\Debug\Compras.dll
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Compras\obj\x86\Debug\Compras.pdb
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Compras\bin\Debug\Resources\CorreosJefas.txt
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Compras\obj\x86\Debug\Compras.AcumuladoCompraVenta.resources
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\Compras\obj\x86\Debug\Compras.NotificacionStock.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Compras\bin\Debug\Resources\CorreosJefas.txt
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Compras\bin\Debug\Compras.dll.config
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Compras\bin\Debug\Compras.dll
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Compras\bin\Debug\Compras.pdb
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Compras\bin\Debug\Cobranza.dll
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Compras\bin\Debug\Presupuesto.dll
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Compras\bin\Debug\Cobranza.pdb
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Compras\bin\Debug\Presupuesto.pdb
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Compras\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Compras\obj\x86\Debug\Compras.csproj.ResolveComReference.cache
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Compras\obj\x86\Debug\Compras.AcumuladoCompraVenta.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Compras\obj\x86\Debug\Compras.Arribos.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Compras\obj\x86\Debug\Compras.ClasificacionABC.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Compras\obj\x86\Debug\Compras.Form1.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Compras\obj\x86\Debug\Compras.Desabasto.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Compras\obj\x86\Debug\Compras.EntradasMercancia.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Compras\obj\x86\Debug\Compras.HistorialVentas.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Compras\obj\x86\Debug\Compras.IdealxLinea.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Compras\obj\x86\Debug\Compras.AnalisisCompras.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Compras\obj\x86\Debug\Compras.NotificacionStock.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Compras\obj\x86\Debug\Compras.Properties.Resources.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Compras\obj\x86\Debug\Compras.Reubicaciones.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Compras\obj\x86\Debug\Compras.SeguimientoCompras.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Compras\obj\x86\Debug\Compras.SeguimientoComprasVendedores.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Compras\obj\x86\Debug\Compras.Solicitudes.CatalogoArticulos.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Compras\obj\x86\Debug\Compras.Solicitudes.PPC.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Compras\obj\x86\Debug\Compras.Transferencias_Compras.Transferencias_Compras.resources
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Compras\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Compras\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Compras\obj\x86\Debug\Compras.dll
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Compras\obj\x86\Debug\Compras.pdb
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Compras\bin\Debug\ClasesSGUV.dll
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\Compras\bin\Debug\ClasesSGUV.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Compras\bin\Debug\Resources\CorreosJefas.txt
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Compras\bin\Debug\Compras.dll.config
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Compras\bin\Debug\Compras.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Compras\bin\Debug\Compras.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Compras\bin\Debug\ClasesSGUV.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Compras\bin\Debug\Cobranza.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Compras\bin\Debug\Presupuesto.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Compras\bin\Debug\ClasesSGUV.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Compras\bin\Debug\Cobranza.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Compras\bin\Debug\Presupuesto.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Compras\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Compras\obj\x86\Debug\Compras.csproj.ResolveComReference.cache
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Compras\obj\x86\Debug\Compras.AcumuladoCompraVenta.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Compras\obj\x86\Debug\Compras.Arribos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Compras\obj\x86\Debug\Compras.ClasificacionABC.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Compras\obj\x86\Debug\Compras.Form1.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Compras\obj\x86\Debug\Compras.Desabasto.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Compras\obj\x86\Debug\Compras.EntradasMercancia.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Compras\obj\x86\Debug\Compras.HistorialVentas.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Compras\obj\x86\Debug\Compras.IdealxLinea.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Compras\obj\x86\Debug\Compras.AnalisisCompras.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Compras\obj\x86\Debug\Compras.NotificacionStock.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Compras\obj\x86\Debug\Compras.Properties.Resources.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Compras\obj\x86\Debug\Compras.Reubicaciones.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Compras\obj\x86\Debug\Compras.SeguimientoCompras.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Compras\obj\x86\Debug\Compras.SeguimientoComprasVendedores.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Compras\obj\x86\Debug\Compras.Solicitudes.CatalogoArticulos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Compras\obj\x86\Debug\Compras.Solicitudes.PPC.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Compras\obj\x86\Debug\Compras.Transferencias_Compras.Transferencias_Compras.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Compras\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Compras\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Compras\obj\x86\Debug\Compras.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\Compras\obj\x86\Debug\Compras.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Compras\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Compras\obj\x86\Debug\Compras.csproj.ResolveComReference.cache
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Compras\obj\x86\Debug\Compras.AcumuladoCompraVenta.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Compras\obj\x86\Debug\Compras.Arribos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Compras\obj\x86\Debug\Compras.ClasificacionABC.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Compras\obj\x86\Debug\Compras.Form1.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Compras\obj\x86\Debug\Compras.Desabasto.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Compras\obj\x86\Debug\Compras.EntradasMercancia.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Compras\obj\x86\Debug\Compras.HistorialVentas.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Compras\obj\x86\Debug\Compras.IdealxLinea.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Compras\obj\x86\Debug\Compras.AnalisisCompras.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Compras\obj\x86\Debug\Compras.NotificacionStock.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Compras\obj\x86\Debug\Compras.Properties.Resources.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Compras\obj\x86\Debug\Compras.Reubicaciones.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Compras\obj\x86\Debug\Compras.SeguimientoCompras.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Compras\obj\x86\Debug\Compras.SeguimientoComprasVendedores.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Compras\obj\x86\Debug\Compras.Solicitudes.CatalogoArticulos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Compras\obj\x86\Debug\Compras.Solicitudes.PPC.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Compras\obj\x86\Debug\Compras.Transferencias_Compras.Transferencias_Compras.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Compras\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Compras\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Compras\bin\Debug\Resources\CorreosJefas.txt
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Compras\bin\Debug\Compras.dll.config
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Compras\bin\Debug\Compras.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Compras\bin\Debug\Compras.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Compras\bin\Debug\ClasesSGUV.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Compras\bin\Debug\Cobranza.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Compras\bin\Debug\Presupuesto.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Compras\bin\Debug\ClasesSGUV.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Compras\bin\Debug\Cobranza.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Compras\bin\Debug\Presupuesto.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Compras\obj\x86\Debug\Compras.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\Compras\obj\x86\Debug\Compras.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Compras\bin\Debug\Resources\CorreosJefas.txt
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Compras\bin\Debug\Compras.dll.config
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Compras\bin\Debug\Compras.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Compras\bin\Debug\Compras.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Compras\bin\Debug\ClasesSGUV.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Compras\bin\Debug\Cobranza.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Compras\bin\Debug\Presupuesto.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Compras\bin\Debug\ClasesSGUV.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Compras\bin\Debug\Cobranza.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Compras\bin\Debug\Presupuesto.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Compras\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Compras\obj\x86\Debug\Compras.csproj.ResolveComReference.cache
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Compras\obj\x86\Debug\Compras.AcumuladoCompraVenta.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Compras\obj\x86\Debug\Compras.Arribos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Compras\obj\x86\Debug\Compras.ClasificacionABC.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Compras\obj\x86\Debug\Compras.Form1.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Compras\obj\x86\Debug\Compras.Desabasto.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Compras\obj\x86\Debug\Compras.EntradasMercancia.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Compras\obj\x86\Debug\Compras.HistorialVentas.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Compras\obj\x86\Debug\Compras.IdealxLinea.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Compras\obj\x86\Debug\Compras.AnalisisCompras.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Compras\obj\x86\Debug\Compras.NotificacionStock.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Compras\obj\x86\Debug\Compras.Properties.Resources.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Compras\obj\x86\Debug\Compras.Reubicaciones.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Compras\obj\x86\Debug\Compras.SeguimientoCompras.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Compras\obj\x86\Debug\Compras.SeguimientoComprasVendedores.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Compras\obj\x86\Debug\Compras.Solicitudes.CatalogoArticulos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Compras\obj\x86\Debug\Compras.Solicitudes.PPC.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Compras\obj\x86\Debug\Compras.Transferencias_Compras.Transferencias_Compras.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Compras\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Compras\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Compras\obj\x86\Debug\Compras.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\Compras\obj\x86\Debug\Compras.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Compras\bin\Debug\Resources\CorreosJefas.txt
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Compras\bin\Debug\Compras.dll.config
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Compras\bin\Debug\Compras.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Compras\bin\Debug\Compras.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Compras\bin\Debug\ClasesSGUV.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Compras\bin\Debug\Cobranza.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Compras\bin\Debug\Presupuesto.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Compras\bin\Debug\ClasesSGUV.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Compras\bin\Debug\Cobranza.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Compras\bin\Debug\Presupuesto.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Compras\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Compras\obj\x86\Debug\Compras.csproj.ResolveComReference.cache
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Compras\obj\x86\Debug\Compras.AcumuladoCompraVenta.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Compras\obj\x86\Debug\Compras.Arribos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Compras\obj\x86\Debug\Compras.ClasificacionABC.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Compras\obj\x86\Debug\Compras.Form1.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Compras\obj\x86\Debug\Compras.Desabasto.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Compras\obj\x86\Debug\Compras.EntradasMercancia.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Compras\obj\x86\Debug\Compras.HistorialVentas.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Compras\obj\x86\Debug\Compras.IdealxLinea.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Compras\obj\x86\Debug\Compras.AnalisisCompras.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Compras\obj\x86\Debug\Compras.NotificacionStock.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Compras\obj\x86\Debug\Compras.Properties.Resources.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Compras\obj\x86\Debug\Compras.Reubicaciones.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Compras\obj\x86\Debug\Compras.SeguimientoCompras.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Compras\obj\x86\Debug\Compras.SeguimientoComprasVendedores.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Compras\obj\x86\Debug\Compras.Solicitudes.CatalogoArticulos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Compras\obj\x86\Debug\Compras.Solicitudes.PPC.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Compras\obj\x86\Debug\Compras.Transferencias_Compras.Transferencias_Compras.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Compras\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Compras\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Compras\obj\x86\Debug\Compras.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Compras\obj\x86\Debug\Compras.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Compras\obj\x86\Debug\Compras.Reparticion.ReparticionStock.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\Compras\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Compras\bin\Debug\Resources\CorreosJefas.txt
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Compras\bin\Debug\Compras.dll.config
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Compras\bin\Debug\Compras.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Compras\bin\Debug\Compras.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Compras\bin\Debug\ClasesSGUV.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Compras\bin\Debug\Cobranza.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Compras\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Compras\bin\Debug\Presupuesto.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Compras\bin\Debug\ClasesSGUV.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Compras\bin\Debug\Cobranza.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Compras\bin\Debug\Presupuesto.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Compras\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.csproj.ResolveComReference.cache
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.AcumuladoCompraVenta.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.Arribos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.ClasificacionABC.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.Form1.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.Desabasto.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.EntradasMercancia.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.HistorialVentas.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.IdealxLinea.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.AnalisisCompras.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.NotificacionStock.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.Properties.Resources.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.Reparticion.ReparticionStock.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.Reubicaciones.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.SeguimientoCompras.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.SeguimientoComprasVendedores.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.Solicitudes.CatalogoArticulos.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.Solicitudes.PPC.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.Transferencias_Compras.Transferencias_Compras.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Compras\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Compras\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.pdb
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Compras\bin\Debug\Resources\CorreosJefas.txt
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Compras\bin\Debug\Compras.dll.config
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Compras\bin\Debug\Compras.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Compras\bin\Debug\Compras.pdb
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Compras\bin\Debug\ClasesSGUV.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Compras\bin\Debug\Cobranza.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Compras\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Compras\bin\Debug\Presupuesto.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Compras\bin\Debug\ClasesSGUV.pdb
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Compras\bin\Debug\Cobranza.pdb
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Compras\bin\Debug\Presupuesto.pdb
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.csproj.ResolveComReference.cache
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.AcumuladoCompraVenta.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.Arribos.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.ClasificacionABC.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.Form1.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.Desabasto.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.EntradasMercancia.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.HistorialVentas.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.IdealxLinea.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.AnalisisCompras.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.NotificacionStock.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.Properties.Resources.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.Reparticion.ReparticionStock.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.Reubicaciones.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.SeguimientoCompras.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.SeguimientoComprasVendedores.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.Solicitudes.CatalogoArticulos.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.Solicitudes.PPC.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.Transferencias_Compras.Transferencias_Compras.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.pdb
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Compras\bin\Debug\Resources\CorreosJefas.txt
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Compras\bin\Debug\Compras.dll.config
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Compras\bin\Debug\Compras.dll
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Compras\bin\Debug\Compras.pdb
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Compras\bin\Debug\ClasesSGUV.dll
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Compras\bin\Debug\Cobranza.dll
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Compras\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Compras\bin\Debug\Presupuesto.dll
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Compras\bin\Debug\ClasesSGUV.pdb
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Compras\bin\Debug\Cobranza.pdb
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Compras\bin\Debug\Presupuesto.pdb
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Compras\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.csproj.ResolveComReference.cache
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.AcumuladoCompraVenta.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.Arribos.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.ClasificacionABC.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.Form1.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.Desabasto.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.EntradasMercancia.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.HistorialVentas.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.IdealxLinea.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.AnalisisCompras.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.NotificacionStock.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.Properties.Resources.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.Reparticion.ReparticionStock.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.Reubicaciones.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.SeguimientoCompras.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.SeguimientoComprasVendedores.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.Solicitudes.CatalogoArticulos.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.Solicitudes.PPC.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Compras\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Compras\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.dll
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.pdb
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Compras\bin\Debug\Resources\CorreosJefas.txt
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Compras\bin\Debug\Compras.dll.config
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Compras\bin\Debug\Compras.dll
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Compras\bin\Debug\Compras.pdb
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Compras\bin\Debug\ClasesSGUV.dll
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Compras\bin\Debug\Cobranza.dll
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Compras\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Compras\bin\Debug\Presupuesto.dll
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Compras\bin\Debug\ClasesSGUV.pdb
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Compras\bin\Debug\Cobranza.pdb
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Compras\bin\Debug\Presupuesto.pdb
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.csproj.ResolveComReference.cache
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.AcumuladoCompraVenta.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.Arribos.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.ClasificacionABC.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.Form1.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.Desabasto.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.EntradasMercancia.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.HistorialVentas.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.IdealxLinea.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.AnalisisCompras.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.NotificacionStock.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.Properties.Resources.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.Reparticion.ReparticionStock.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.Reubicaciones.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.SeguimientoCompras.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.SeguimientoComprasVendedores.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.Solicitudes.CatalogoArticulos.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.Solicitudes.PPC.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.dll
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.pdb
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.Transferencias_Compras.Compras.resources
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.Transferencias_Compras.Transferencias.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.Transferencias_Compras.Compras.resources
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\Compras\obj\x86\Debug\Compras.Transferencias_Compras.Transferencias.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Compras\bin\Debug\Resources\CorreosJefas.txt
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Compras\bin\Debug\Compras.dll.config
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Compras\bin\Debug\Compras.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Compras\bin\Debug\Compras.pdb
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Compras\bin\Debug\ClasesSGUV.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Compras\bin\Debug\Cobranza.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Compras\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Compras\bin\Debug\Presupuesto.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Compras\bin\Debug\ClasesSGUV.pdb
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Compras\bin\Debug\Cobranza.pdb
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Compras\bin\Debug\Presupuesto.pdb
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Compras\obj\x86\Debug\Compras.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Compras\obj\x86\Debug\Compras.csproj.ResolveComReference.cache
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Compras\obj\x86\Debug\Compras.AcumuladoCompraVenta.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Compras\obj\x86\Debug\Compras.Arribos.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Compras\obj\x86\Debug\Compras.ClasificacionABC.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Compras\obj\x86\Debug\Compras.Form1.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Compras\obj\x86\Debug\Compras.Desabasto.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Compras\obj\x86\Debug\Compras.EntradasMercancia.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Compras\obj\x86\Debug\Compras.HistorialVentas.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Compras\obj\x86\Debug\Compras.IdealesArticulosAlmacen.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Compras\obj\x86\Debug\Compras.IdealxLinea.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Compras\obj\x86\Debug\Compras.AnalisisCompras.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Compras\obj\x86\Debug\Compras.NotificacionStock.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Compras\obj\x86\Debug\Compras.Properties.Resources.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Compras\obj\x86\Debug\Compras.Reparticion.ReparticionStock.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Compras\obj\x86\Debug\Compras.Reubicaciones.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Compras\obj\x86\Debug\Compras.SeguimientoCompras.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Compras\obj\x86\Debug\Compras.SeguimientoComprasVendedores.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Compras\obj\x86\Debug\Compras.Solicitudes.CatalogoArticulos.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Compras\obj\x86\Debug\Compras.Solicitudes.PPC.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Compras\obj\x86\Debug\Compras.Transferencias_Compras.Compras.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Compras\obj\x86\Debug\Compras.Transferencias_Compras.Transferencias.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Compras\obj\x86\Debug\Compras.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Compras\obj\x86\Debug\Compras.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\Compras\obj\x86\Debug\Compras.pdb
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Compras\bin\Debug\Resources\CorreosJefas.txt
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Compras\bin\Debug\Compras.dll.config
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Compras\bin\Debug\Compras.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Compras\bin\Debug\Compras.pdb
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Compras\bin\Debug\ClasesSGUV.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Compras\bin\Debug\Cobranza.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Compras\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Compras\bin\Debug\Presupuesto.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Compras\bin\Debug\ClasesSGUV.pdb
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Compras\bin\Debug\Cobranza.pdb
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Compras\bin\Debug\Presupuesto.pdb
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Compras\obj\x86\Debug\Compras.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Compras\obj\x86\Debug\Compras.csproj.ResolveComReference.cache
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Compras\obj\x86\Debug\Compras.AcumuladoCompraVenta.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Compras\obj\x86\Debug\Compras.Arribos.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Compras\obj\x86\Debug\Compras.ClasificacionABC.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Compras\obj\x86\Debug\Compras.Form1.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Compras\obj\x86\Debug\Compras.Desabasto.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Compras\obj\x86\Debug\Compras.EntradasMercancia.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Compras\obj\x86\Debug\Compras.HistorialVentas.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Compras\obj\x86\Debug\Compras.IdealesArticulosAlmacen.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Compras\obj\x86\Debug\Compras.IdealxLinea.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Compras\obj\x86\Debug\Compras.AnalisisCompras.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Compras\obj\x86\Debug\Compras.NotificacionStock.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Compras\obj\x86\Debug\Compras.Properties.Resources.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Compras\obj\x86\Debug\Compras.Reparticion.ReparticionStock.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Compras\obj\x86\Debug\Compras.Reubicaciones.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Compras\obj\x86\Debug\Compras.SeguimientoCompras.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Compras\obj\x86\Debug\Compras.SeguimientoComprasVendedores.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Compras\obj\x86\Debug\Compras.Solicitudes.CatalogoArticulos.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Compras\obj\x86\Debug\Compras.Solicitudes.PPC.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Compras\obj\x86\Debug\Compras.Transferencias_Compras.Compras.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Compras\obj\x86\Debug\Compras.Transferencias_Compras.Transferencias.resources
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Compras\obj\x86\Debug\Compras.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Compras\obj\x86\Debug\Compras.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\Compras\obj\x86\Debug\Compras.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Compras\bin\Debug\Resources\CorreosJefas.txt
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Compras\bin\Debug\Compras.dll.config
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Compras\bin\Debug\Compras.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Compras\bin\Debug\Compras.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Compras\bin\Debug\ClasesSGUV.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Compras\bin\Debug\Cobranza.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Compras\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Compras\bin\Debug\Presupuesto.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Compras\bin\Debug\ClasesSGUV.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Compras\bin\Debug\Cobranza.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Compras\bin\Debug\Presupuesto.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Compras\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Compras\obj\x86\Debug\Compras.csproj.ResolveComReference.cache
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Compras\obj\x86\Debug\Compras.AcumuladoCompraVenta.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Compras\obj\x86\Debug\Compras.Arribos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Compras\obj\x86\Debug\Compras.ClasificacionABC.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Compras\obj\x86\Debug\Compras.Form1.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Compras\obj\x86\Debug\Compras.Desabasto.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Compras\obj\x86\Debug\Compras.EntradasMercancia.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Compras\obj\x86\Debug\Compras.HistorialVentas.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Compras\obj\x86\Debug\Compras.IdealesArticulosAlmacen.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Compras\obj\x86\Debug\Compras.IdealxLinea.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Compras\obj\x86\Debug\Compras.AnalisisCompras.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Compras\obj\x86\Debug\Compras.NotificacionStock.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Compras\obj\x86\Debug\Compras.Properties.Resources.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Compras\obj\x86\Debug\Compras.Reparticion.ReparticionStock.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Compras\obj\x86\Debug\Compras.Reubicaciones.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Compras\obj\x86\Debug\Compras.SeguimientoCompras.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Compras\obj\x86\Debug\Compras.SeguimientoComprasVendedores.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Compras\obj\x86\Debug\Compras.Solicitudes.CatalogoArticulos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Compras\obj\x86\Debug\Compras.Solicitudes.PPC.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Compras\obj\x86\Debug\Compras.Transferencias_Compras.Compras.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Compras\obj\x86\Debug\Compras.Transferencias_Compras.Transferencias.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Compras\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Compras\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Compras\obj\x86\Debug\Compras.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Compras\obj\x86\Debug\Compras.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Compras\obj\x86\Debug\Compras.IndicadorDesabasto.Indicadores.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\Compras\obj\x86\Debug\Compras.IndicadorDesabasto.Penalizaciones.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Compras\bin\Debug\Resources\CorreosJefas.txt
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Compras\bin\Debug\Compras.dll.config
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Compras\bin\Debug\Compras.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Compras\bin\Debug\Compras.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Compras\bin\Debug\ClasesSGUV.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Compras\bin\Debug\Cobranza.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Compras\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Compras\bin\Debug\Presupuesto.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Compras\bin\Debug\ClasesSGUV.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Compras\bin\Debug\Cobranza.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Compras\bin\Debug\Presupuesto.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Compras\obj\x86\Debug\Compras.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Compras\obj\x86\Debug\Compras.csproj.ResolveComReference.cache
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Compras\obj\x86\Debug\Compras.Form1.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Compras\obj\x86\Debug\Compras.Desarrollo.frmCompras.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Compras\obj\x86\Debug\Compras.Desarrollo.frmConsignas.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Compras\obj\x86\Debug\Compras.Properties.Resources.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Compras\obj\x86\Debug\Compras.SeguimientoCompras.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Compras\obj\x86\Debug\Compras.SeguimientoComprasVendedores.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Compras\obj\x86\Debug\Compras.Transferencias_Compras.Compras.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Compras\obj\x86\Debug\Compras.Transferencias_Compras.Transferencias.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Compras\obj\x86\Debug\Compras.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Compras\obj\x86\Debug\Compras.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Compras\obj\x86\Debug\Compras.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Compras\obj\x86\Debug\Compras.Desarrollo.frmLineasCompromiso.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Compras\obj\x86\Debug\Compras.frmAcumuladoCompraVenta.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Compras\obj\x86\Debug\Compras.frmArribos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Compras\obj\x86\Debug\Compras.frmClasificacionABC.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Compras\obj\x86\Debug\Compras.frmDesabasto.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Compras\obj\x86\Debug\Compras.frmEntradasMercancia.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Compras\obj\x86\Debug\Compras.frmPE.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Compras\obj\x86\Debug\Compras.frmHistorialVentas.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Compras\obj\x86\Debug\Compras.frmIdealesArticulosAlmacen.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Compras\obj\x86\Debug\Compras.frmIdealxLinea.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Compras\obj\x86\Debug\Compras.frmAnalisisCompras.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Compras\obj\x86\Debug\Compras.IndicadorDesabasto.frmIndicadores.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Compras\obj\x86\Debug\Compras.IndicadorDesabasto.frmPenalizaciones.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Compras\obj\x86\Debug\Compras.frmNotificacionStock.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Compras\obj\x86\Debug\Compras.frmNuevoCompras.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Compras\obj\x86\Debug\Compras.Reparticion.frmReparticionStock.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Compras\obj\x86\Debug\Compras.Reparticion.frmReparticionTractozone.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Compras\obj\x86\Debug\Compras.frmReubicaciones.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Compras\obj\x86\Debug\Compras.Solicitudes.frmCatalogoArticulos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Compras\obj\x86\Debug\Compras.Solicitudes.frmPPC.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Compras\bin\Debug\Resources\CorreosJefas.txt
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Compras\bin\Debug\Compras.dll.config
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Compras\bin\Debug\Compras.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Compras\bin\Debug\Compras.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Compras\bin\Debug\ClasesSGUV.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Compras\bin\Debug\Cobranza.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Compras\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Compras\bin\Debug\ClasesSGUV.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Compras\bin\Debug\Cobranza.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Compras\obj\x86\Debug\Compras.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Compras\obj\x86\Debug\Compras.csproj.ResolveComReference.cache
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Compras\obj\x86\Debug\Compras.frmAcumuladoCompraVenta.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Compras\obj\x86\Debug\Compras.frmArribos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Compras\obj\x86\Debug\Compras.frmClasificacionABC.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Compras\obj\x86\Debug\Compras.Form1.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Compras\obj\x86\Debug\Compras.frmDesabasto.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Compras\obj\x86\Debug\Compras.Desarrollo.frmCompras.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Compras\obj\x86\Debug\Compras.Desarrollo.frmConsignas.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Compras\obj\x86\Debug\Compras.Desarrollo.frmLineasCompromiso.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Compras\obj\x86\Debug\Compras.frmEntradasMercancia.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Compras\obj\x86\Debug\Compras.frmPE.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Compras\obj\x86\Debug\Compras.frmHistorialVentas.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Compras\obj\x86\Debug\Compras.frmIdealesArticulosAlmacen.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Compras\obj\x86\Debug\Compras.frmIdealxLinea.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Compras\obj\x86\Debug\Compras.frmAnalisisCompras.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Compras\obj\x86\Debug\Compras.IndicadorDesabasto.frmIndicadores.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Compras\obj\x86\Debug\Compras.IndicadorDesabasto.frmPenalizaciones.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Compras\obj\x86\Debug\Compras.frmNotificacionStock.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Compras\obj\x86\Debug\Compras.frmNuevoCompras.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Compras\obj\x86\Debug\Compras.Properties.Resources.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Compras\obj\x86\Debug\Compras.Reparticion.frmReparticionStock.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Compras\obj\x86\Debug\Compras.Reparticion.frmReparticionTractozone.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Compras\obj\x86\Debug\Compras.frmReubicaciones.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Compras\obj\x86\Debug\Compras.SeguimientoCompras.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Compras\obj\x86\Debug\Compras.SeguimientoComprasVendedores.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Compras\obj\x86\Debug\Compras.Solicitudes.frmCatalogoArticulos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Compras\obj\x86\Debug\Compras.Solicitudes.frmPPC.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Compras\obj\x86\Debug\Compras.Transferencias_Compras.Compras.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Compras\obj\x86\Debug\Compras.Transferencias_Compras.Transferencias.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Compras\obj\x86\Debug\Compras.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Compras\obj\x86\Debug\Compras.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Compras\obj\x86\Debug\Compras.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Compras\obj\x86\Debug\Compras.Desarrollo.frmTraspasosImpo.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Compras\obj\x86\Debug\Compras.frmClasificacionABCMTY.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Compras\obj\x86\Debug\Compras.Solicitudes.frmSolicitudProducto.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Compras\obj\x86\Debug\Compras.frmAnalisisObsLento.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Compras\bin\Debug\Resources\CorreosJefas.txt
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Compras\bin\Debug\Compras.dll.config
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Compras\bin\Debug\Compras.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Compras\bin\Debug\Compras.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Compras\bin\Debug\ClasesSGUV.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Compras\bin\Debug\Cobranza.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Compras\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Compras\bin\Debug\ClasesSGUV.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Compras\bin\Debug\Cobranza.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.csproj.ResolveComReference.cache
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.frmAnalisisObsLento.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.frmClasificacionABCMTY.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.Desarrollo.frmTraspasosImpo.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.frmAcumuladoCompraVenta.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.frmArribos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.frmClasificacionABC.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.Form1.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.frmDesabasto.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.Desarrollo.frmCompras.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.Desarrollo.frmConsignas.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.Desarrollo.frmLineasCompromiso.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.frmEntradasMercancia.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.frmPE.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.frmHistorialVentas.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.frmIdealesArticulosAlmacen.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.frmIdealxLinea.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.frmAnalisisCompras.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.IndicadorDesabasto.frmIndicadores.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.IndicadorDesabasto.frmPenalizaciones.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.frmNotificacionStock.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.frmNuevoCompras.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.Properties.Resources.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.Reparticion.frmReparticionStock.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.Reparticion.frmReparticionTractozone.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.frmReubicaciones.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.SeguimientoCompras.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.SeguimientoComprasVendedores.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.Solicitudes.frmCatalogoArticulos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.Solicitudes.frmPPC.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.Solicitudes.frmSolicitudProducto.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.Transferencias_Compras.Compras.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.Transferencias_Compras.Transferencias.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Compras\bin\Debug\Resources\CorreosJefas.txt
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Compras\bin\Debug\Compras.dll.config
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Compras\bin\Debug\Compras.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Compras\bin\Debug\Compras.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Compras\bin\Debug\ClasesSGUV.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Compras\bin\Debug\Cobranza.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Compras\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Compras\bin\Debug\ClasesSGUV.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Compras\bin\Debug\Cobranza.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Compras\obj\x86\Debug\Compras.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Compras\obj\x86\Debug\Compras.csproj.ResolveComReference.cache
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Compras\obj\x86\Debug\Compras.frmAnalisisObsLento.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Compras\obj\x86\Debug\Compras.frmClasificacionABCMTY.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Compras\obj\x86\Debug\Compras.Desarrollo.frmTraspasosImpo.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Compras\obj\x86\Debug\Compras.frmAcumuladoCompraVenta.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Compras\obj\x86\Debug\Compras.frmArribos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Compras\obj\x86\Debug\Compras.frmClasificacionABC.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Compras\obj\x86\Debug\Compras.Form1.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Compras\obj\x86\Debug\Compras.frmDesabasto.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Compras\obj\x86\Debug\Compras.Desarrollo.frmCompras.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Compras\obj\x86\Debug\Compras.Desarrollo.frmConsignas.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Compras\obj\x86\Debug\Compras.Desarrollo.frmLineasCompromiso.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Compras\obj\x86\Debug\Compras.frmEntradasMercancia.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Compras\obj\x86\Debug\Compras.frmPE.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Compras\obj\x86\Debug\Compras.frmHistorialVentas.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Compras\obj\x86\Debug\Compras.frmIdealesArticulosAlmacen.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Compras\obj\x86\Debug\Compras.frmIdealxLinea.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Compras\obj\x86\Debug\Compras.frmAnalisisCompras.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Compras\obj\x86\Debug\Compras.IndicadorDesabasto.frmIndicadores.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Compras\obj\x86\Debug\Compras.IndicadorDesabasto.frmPenalizaciones.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Compras\obj\x86\Debug\Compras.frmNotificacionStock.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Compras\obj\x86\Debug\Compras.frmNuevoCompras.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Compras\obj\x86\Debug\Compras.Properties.Resources.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Compras\obj\x86\Debug\Compras.Reparticion.frmReparticionStock.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Compras\obj\x86\Debug\Compras.Reparticion.frmReparticionTractozone.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Compras\obj\x86\Debug\Compras.frmReubicaciones.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Compras\obj\x86\Debug\Compras.SeguimientoCompras.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Compras\obj\x86\Debug\Compras.SeguimientoComprasVendedores.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Compras\obj\x86\Debug\Compras.Solicitudes.frmCatalogoArticulos.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Compras\obj\x86\Debug\Compras.Solicitudes.frmPPC.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Compras\obj\x86\Debug\Compras.Solicitudes.frmSolicitudProducto.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Compras\obj\x86\Debug\Compras.Transferencias_Compras.Compras.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Compras\obj\x86\Debug\Compras.Transferencias_Compras.Transferencias.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Compras\obj\x86\Debug\Compras.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Compras\obj\x86\Debug\Compras.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Compras\obj\x86\Debug\Compras.pdb
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Compras\bin\Debug\Resources\CorreosJefas.txt
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Compras\bin\Debug\Compras.dll.config
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Compras\bin\Debug\Compras.dll
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Compras\bin\Debug\Compras.pdb
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Compras\bin\Debug\ClasesSGUV.dll
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Compras\bin\Debug\Cobranza.dll
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Compras\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Compras\bin\Debug\ClasesSGUV.pdb
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Compras\bin\Debug\Cobranza.pdb
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.csproj.ResolveComReference.cache
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.frmAnalisisObsLento.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.frmClasificacionABCMTY.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.Desarrollo.frmTraspasosImpo.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.frmAcumuladoCompraVenta.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.frmArribos.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.frmClasificacionABC.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.Form1.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.frmDesabasto.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.Desarrollo.frmCompras.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.Desarrollo.frmConsignas.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.Desarrollo.frmLineasCompromiso.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.frmEntradasMercancia.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.frmPE.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.frmHistorialVentas.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.frmIdealesArticulosAlmacen.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.frmIdealxLinea.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.frmAnalisisCompras.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.IndicadorDesabasto.frmIndicadores.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.IndicadorDesabasto.frmPenalizaciones.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.frmNotificacionStock.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.frmNuevoCompras.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.Properties.Resources.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.Reparticion.frmReparticionStock.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.Reparticion.frmReparticionTractozone.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.frmReubicaciones.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.SeguimientoCompras.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.SeguimientoComprasVendedores.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.Solicitudes.frmCatalogoArticulos.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.Solicitudes.frmPPC.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.Solicitudes.frmSolicitudProducto.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.Transferencias_Compras.Compras.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.Transferencias_Compras.Transferencias.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.dll
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.pdb
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.Desarrollo.frmCostoVtaSucursal.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.Desarrollo.frmRepartoLM.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.frmHistorialABC.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Compras\obj\x86\Debug\Compras.frmTraspasosFactura.resources

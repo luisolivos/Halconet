@@ -1,0 +1,2 @@
+[Usuario]	Administrador
+[Password]	1234.

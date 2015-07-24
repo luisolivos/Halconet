@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{444D8938-10A3-438E-AF5B-4299A1A8F93C}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Pagos</RootNamespace>
+    <AssemblyName>Pagos</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ComponentFactory.Krypton.Docking, Version=4.4.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e" />
+    <Reference Include="ComponentFactory.Krypton.Navigator, Version=4.4.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e" />
+    <Reference Include="ComponentFactory.Krypton.Ribbon, Version=4.4.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e" />
+    <Reference Include="ComponentFactory.Krypton.Toolkit, Version=4.4.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e" />
+    <Reference Include="ComponentFactory.Krypton.Workspace, Version=4.4.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e" />
+    <Reference Include="itextsharp">
+      <HintPath>..\Ventas\bin\Debug\DLL\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\..\..\Windows\assembly\GAC_MSIL\Microsoft.Office.Interop.Excel\14.0.0.0__71e9bce111e9429c\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization.Formatters.Soap" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="UIAutomationTypes" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Clases\Constantes.cs" />
+    <Compile Include="Clases\CrearPDF.cs" />
+    <Compile Include="Clases\Logs.cs" />
+    <Compile Include="frmCreditosProvedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCreditosProvedor.designer.cs">
+      <DependentUpon>frmCreditosProvedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCreditosProvedorReporte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCreditosProvedorReporte.designer.cs">
+      <DependentUpon>frmCreditosProvedorReporte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PagosCorte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PagosCorte.Designer.cs">
+      <DependentUpon>PagosCorte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PagosEfectuados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PagosEfectuados.Designer.cs">
+      <DependentUpon>PagosEfectuados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PagosProveedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PagosProveedores.Designer.cs">
+      <DependentUpon>PagosProveedores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="ReporteAutorizado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReporteAutorizado.Designer.cs">
+      <DependentUpon>ReporteAutorizado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportesHalcoNET\Logs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportesHalcoNET\Logs.Designer.cs">
+      <DependentUpon>Logs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TemplatePagosProv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TemplatePagosProv.Designer.cs">
+      <DependentUpon>TemplatePagosProv.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmCreditosProvedor.resx">
+      <DependentUpon>frmCreditosProvedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCreditosProvedorReporte.resx">
+      <DependentUpon>frmCreditosProvedorReporte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PagosCorte.resx">
+      <DependentUpon>PagosCorte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PagosEfectuados.resx">
+      <DependentUpon>PagosEfectuados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PagosProveedores.resx">
+      <DependentUpon>PagosProveedores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReporteAutorizado.resx">
+      <DependentUpon>ReporteAutorizado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportesHalcoNET\Logs.resx">
+      <DependentUpon>Logs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TemplatePagosProv.resx">
+      <DependentUpon>TemplatePagosProv.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Resources\save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img-thing.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\line.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\filter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ClasesSGUV\ClasesSGUV.csproj">
+      <Project>{C646A8ED-D16C-45D4-999E-52DEB303CC30}</Project>
+      <Name>ClasesSGUV</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HALCONET.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grid.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\print.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sum2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\table.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\update.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\template.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\procesDirectory.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

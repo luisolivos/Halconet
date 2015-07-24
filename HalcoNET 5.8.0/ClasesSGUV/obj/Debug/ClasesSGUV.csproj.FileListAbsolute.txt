@@ -1,0 +1,120 @@
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\ClasesSGUV\bin\Debug\ClasesSGUV.dll
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\ClasesSGUV\bin\Debug\ClasesSGUV.pdb
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\ClasesSGUV\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\ClasesSGUV\obj\Debug\ClasesSGUV.dll
+C:\Users\Desarrollo\Desktop\SGUV v 4.7.1\Ventas\ClasesSGUV\obj\Debug\ClasesSGUV.pdb
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\ClasesSGUV\bin\Debug\ClasesSGUV.dll
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\ClasesSGUV\bin\Debug\ClasesSGUV.pdb
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\ClasesSGUV\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\ClasesSGUV\obj\Debug\ClasesSGUV.dll
+C:\Users\Desarrollo\Desktop\SGUV 4.9.1\ClasesSGUV\obj\Debug\ClasesSGUV.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\ClasesSGUV\bin\Debug\ClasesSGUV.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\ClasesSGUV\bin\Debug\ClasesSGUV.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\ClasesSGUV\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\ClasesSGUV\obj\Debug\ClasesSGUV.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.1\ClasesSGUV\obj\Debug\ClasesSGUV.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\ClasesSGUV\bin\Debug\ClasesSGUV.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\ClasesSGUV\bin\Debug\ClasesSGUV.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\ClasesSGUV\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\ClasesSGUV\obj\Debug\ClasesSGUV.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 4.9.5\ClasesSGUV\obj\Debug\ClasesSGUV.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\ClasesSGUV\bin\Debug\ClasesSGUV.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\ClasesSGUV\bin\Debug\ClasesSGUV.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\ClasesSGUV\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\ClasesSGUV\obj\Debug\ClasesSGUV.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET\ClasesSGUV\obj\Debug\ClasesSGUV.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\ClasesSGUV\bin\Debug\ClasesSGUV.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\ClasesSGUV\bin\Debug\ClasesSGUV.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\ClasesSGUV\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\ClasesSGUV\obj\Debug\ClasesSGUV.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\ClasesSGUV\obj\Debug\ClasesSGUV.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\ClasesSGUV\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET -- respaldo 15-10-2014\ClasesSGUV\bin\Debug\itextsharp.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\ClasesSGUV\bin\Debug\ClasesSGUV.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\ClasesSGUV\bin\Debug\ClasesSGUV.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\ClasesSGUV\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\ClasesSGUV\bin\Debug\itextsharp.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\ClasesSGUV\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\ClasesSGUV\obj\Debug\ClasesSGUV.dll
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\HalcoNET 5.4.6\ClasesSGUV\obj\Debug\ClasesSGUV.pdb
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\ClasesSGUV\bin\Debug\ClasesSGUV.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\ClasesSGUV\bin\Debug\ClasesSGUV.pdb
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\ClasesSGUV\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\ClasesSGUV\bin\Debug\itextsharp.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\ClasesSGUV\obj\Debug\ClasesSGUV.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\ClasesSGUV\obj\Debug\ClasesSGUV.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.4.6\ClasesSGUV\obj\Debug\ClasesSGUV.pdb
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\ClasesSGUV\bin\Debug\ClasesSGUV.dll
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\ClasesSGUV\bin\Debug\ClasesSGUV.pdb
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\ClasesSGUV\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\ClasesSGUV\bin\Debug\itextsharp.dll
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\ClasesSGUV\obj\Debug\ClasesSGUV.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\ClasesSGUV\obj\Debug\ClasesSGUV.dll
+C:\Users\Administrador\Documents\HalcoNET\HalcoNET 5.4.6\ClasesSGUV\obj\Debug\ClasesSGUV.pdb
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\ClasesSGUV\bin\Debug\ClasesSGUV.dll
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\ClasesSGUV\bin\Debug\ClasesSGUV.pdb
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\ClasesSGUV\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\ClasesSGUV\bin\Debug\itextsharp.dll
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\ClasesSGUV\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\ClasesSGUV\obj\Debug\ClasesSGUV.dll
+C:\Users\Desarrollo\Desktop\HalcoNET 5.4.6\ClasesSGUV\obj\Debug\ClasesSGUV.pdb
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\ClasesSGUV\bin\Debug\ClasesSGUV.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\ClasesSGUV\bin\Debug\ClasesSGUV.pdb
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\ClasesSGUV\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\ClasesSGUV\bin\Debug\itextsharp.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\ClasesSGUV\obj\Debug\ClasesSGUV.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\ClasesSGUV\obj\Debug\ClasesSGUV.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1\ClasesSGUV\obj\Debug\ClasesSGUV.pdb
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\ClasesSGUV\bin\Debug\ClasesSGUV.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\ClasesSGUV\bin\Debug\ClasesSGUV.pdb
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\ClasesSGUV\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\ClasesSGUV\bin\Debug\itextsharp.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\ClasesSGUV\obj\Debug\ClasesSGUV.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\ClasesSGUV\obj\Debug\ClasesSGUV.dll
+C:\Users\Administrador\Desktop\HalcoNET 5.5.1 - NUEVOS ROLES\ClasesSGUV\obj\Debug\ClasesSGUV.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\ClasesSGUV\bin\Debug\ClasesSGUV.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\ClasesSGUV\bin\Debug\ClasesSGUV.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\ClasesSGUV\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\ClasesSGUV\bin\Debug\itextsharp.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\ClasesSGUV\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\ClasesSGUV\obj\Debug\ClasesSGUV.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.0\ClasesSGUV\obj\Debug\ClasesSGUV.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\ClasesSGUV\bin\Debug\ClasesSGUV.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\ClasesSGUV\bin\Debug\ClasesSGUV.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\ClasesSGUV\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\ClasesSGUV\bin\Debug\itextsharp.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\ClasesSGUV\obj\Debug\ClasesSGUV.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\ClasesSGUV\obj\Debug\ClasesSGUV.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\ClasesSGUV\obj\Debug\ClasesSGUV.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\ClasesSGUV\bin\Debug\ClasesSGUV.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\ClasesSGUV\bin\Debug\ClasesSGUV.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\ClasesSGUV\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\ClasesSGUV\bin\Debug\itextsharp.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\ClasesSGUV\obj\Debug\ClasesSGUV.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\ClasesSGUV\obj\Debug\ClasesSGUV.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\ClasesSGUV\obj\Debug\ClasesSGUV.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\ClasesSGUV\bin\Debug\ClasesSGUV.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\ClasesSGUV\bin\Debug\ClasesSGUV.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\ClasesSGUV\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\ClasesSGUV\bin\Debug\itextsharp.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\ClasesSGUV\obj\Debug\ClasesSGUV.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\ClasesSGUV\obj\Debug\ClasesSGUV.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\ClasesSGUV\obj\Debug\ClasesSGUV.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\ClasesSGUV\bin\Debug\ClasesSGUV.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\ClasesSGUV\bin\Debug\ClasesSGUV.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\ClasesSGUV\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\ClasesSGUV\bin\Debug\itextsharp.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\ClasesSGUV\obj\Debug\ClasesSGUV.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\ClasesSGUV\obj\Debug\ClasesSGUV.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\ClasesSGUV\obj\Debug\ClasesSGUV.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\ClasesSGUV\obj\Debug\ClasesSGUV.Properties.Resources.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\ClasesSGUV\obj\Debug\ClasesSGUV.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\ClasesSGUV\bin\Debug\ClasesSGUV.dll
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\ClasesSGUV\bin\Debug\ClasesSGUV.pdb
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\ClasesSGUV\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\ClasesSGUV\bin\Debug\itextsharp.dll
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\ClasesSGUV\obj\Debug\ClasesSGUV.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\ClasesSGUV\obj\Debug\ClasesSGUV.Properties.Resources.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\ClasesSGUV\obj\Debug\ClasesSGUV.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\ClasesSGUV\obj\Debug\ClasesSGUV.dll
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\ClasesSGUV\obj\Debug\ClasesSGUV.pdb

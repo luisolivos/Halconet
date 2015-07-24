@@ -1,0 +1,56 @@
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\PEJ\bin\Debug\PEJ.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\PEJ\bin\Debug\PEJ.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\PEJ\obj\x86\Debug\PEJ.Addenda.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\PEJ\obj\x86\Debug\PEJ.Properties.Resources.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\PEJ\obj\x86\Debug\PEJ.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\PEJ\obj\x86\Debug\PEJ.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\PEJ\obj\x86\Debug\PEJ.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\PEJ\obj\x86\Debug\PEJ.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\PEJ\bin\Debug\PEJ.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\PEJ\bin\Debug\PEJ.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\PEJ\obj\x86\Debug\PEJ.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\PEJ\obj\x86\Debug\PEJ.Addenda.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\PEJ\obj\x86\Debug\PEJ.Properties.Resources.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\PEJ\obj\x86\Debug\PEJ.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\PEJ\obj\x86\Debug\PEJ.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\PEJ\obj\x86\Debug\PEJ.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\PEJ\bin\Debug\ClasesSGUV.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\PEJ\bin\Debug\itextsharp.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\PEJ\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\PEJ\bin\Debug\ClasesSGUV.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\PEJ\bin\Debug\PEJ.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\PEJ\bin\Debug\PEJ.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\PEJ\bin\Debug\ClasesSGUV.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\PEJ\bin\Debug\itextsharp.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\PEJ\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\PEJ\bin\Debug\ClasesSGUV.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\PEJ\obj\x86\Debug\PEJ.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\PEJ\obj\x86\Debug\PEJ.Addenda.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\PEJ\obj\x86\Debug\PEJ.Properties.Resources.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\PEJ\obj\x86\Debug\PEJ.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\PEJ\obj\x86\Debug\PEJ.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\PEJ\obj\x86\Debug\PEJ.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\PEJ\bin\Debug\PEJ.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\PEJ\bin\Debug\PEJ.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\PEJ\bin\Debug\ClasesSGUV.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\PEJ\bin\Debug\itextsharp.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\PEJ\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\PEJ\bin\Debug\ClasesSGUV.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\PEJ\obj\x86\Debug\PEJ.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\PEJ\obj\x86\Debug\PEJ.Addenda.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\PEJ\obj\x86\Debug\PEJ.Properties.Resources.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\PEJ\obj\x86\Debug\PEJ.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\PEJ\obj\x86\Debug\PEJ.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\PEJ\obj\x86\Debug\PEJ.pdb
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\PEJ\bin\Debug\PEJ.dll
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\PEJ\bin\Debug\PEJ.pdb
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\PEJ\bin\Debug\ClasesSGUV.dll
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\PEJ\bin\Debug\itextsharp.dll
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\PEJ\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\PEJ\bin\Debug\ClasesSGUV.pdb
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\PEJ\obj\x86\Debug\PEJ.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\PEJ\obj\x86\Debug\PEJ.Addenda.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\PEJ\obj\x86\Debug\PEJ.Properties.Resources.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\PEJ\obj\x86\Debug\PEJ.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\PEJ\obj\x86\Debug\PEJ.dll
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\PEJ\obj\x86\Debug\PEJ.pdb

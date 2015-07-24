@@ -1,0 +1,60 @@
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Sistemas\bin\Debug\Sistemas.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Sistemas\bin\Debug\Sistemas.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Sistemas\bin\Debug\ClasesSGUV.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Sistemas\bin\Debug\itextsharp.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Sistemas\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Sistemas\bin\Debug\ClasesSGUV.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Sistemas\obj\x86\Debug\Sistemas.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Sistemas\obj\x86\Debug\Sistemas.frmReportePendientesABM.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Sistemas\obj\x86\Debug\Sistemas.Properties.Resources.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Sistemas\obj\x86\Debug\Sistemas.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Sistemas\obj\x86\Debug\Sistemas.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.6.2\Sistemas\obj\x86\Debug\Sistemas.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Sistemas\bin\Debug\Sistemas.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Sistemas\bin\Debug\Sistemas.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Sistemas\bin\Debug\ClasesSGUV.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Sistemas\bin\Debug\itextsharp.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Sistemas\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Sistemas\bin\Debug\ClasesSGUV.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Sistemas\obj\x86\Debug\Sistemas.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Sistemas\obj\x86\Debug\Sistemas.frmReportePendientesABM.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Sistemas\obj\x86\Debug\Sistemas.Properties.Resources.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Sistemas\obj\x86\Debug\Sistemas.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Sistemas\obj\x86\Debug\Sistemas.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.7.2\Sistemas\obj\x86\Debug\Sistemas.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Sistemas\bin\Debug\Sistemas.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Sistemas\bin\Debug\Sistemas.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Sistemas\bin\Debug\ClasesSGUV.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Sistemas\bin\Debug\itextsharp.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Sistemas\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Sistemas\bin\Debug\ClasesSGUV.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Sistemas\obj\x86\Debug\Sistemas.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Sistemas\obj\x86\Debug\Sistemas.frmReportePendientesABM.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Sistemas\obj\x86\Debug\Sistemas.Properties.Resources.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Sistemas\obj\x86\Debug\Sistemas.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Sistemas\obj\x86\Debug\Sistemas.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0\Sistemas\obj\x86\Debug\Sistemas.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Sistemas\bin\Debug\Sistemas.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Sistemas\bin\Debug\Sistemas.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Sistemas\bin\Debug\ClasesSGUV.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Sistemas\bin\Debug\itextsharp.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Sistemas\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Sistemas\bin\Debug\ClasesSGUV.pdb
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Sistemas\obj\x86\Debug\Sistemas.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Sistemas\obj\x86\Debug\Sistemas.frmReportePendientesABM.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Sistemas\obj\x86\Debug\Sistemas.Properties.Resources.resources
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Sistemas\obj\x86\Debug\Sistemas.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Sistemas\obj\x86\Debug\Sistemas.dll
+C:\Users\Usuario\Desktop\HalcoNET 5.8.0 serv 192.168.2.100\Sistemas\obj\x86\Debug\Sistemas.pdb
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Sistemas\bin\Debug\Sistemas.dll
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Sistemas\bin\Debug\Sistemas.pdb
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Sistemas\bin\Debug\ClasesSGUV.dll
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Sistemas\bin\Debug\itextsharp.dll
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Sistemas\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Sistemas\bin\Debug\ClasesSGUV.pdb
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Sistemas\obj\x86\Debug\Sistemas.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Sistemas\obj\x86\Debug\Sistemas.frmReportePendientesABM.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Sistemas\obj\x86\Debug\Sistemas.Properties.Resources.resources
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Sistemas\obj\x86\Debug\Sistemas.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Sistemas\obj\x86\Debug\Sistemas.dll
+C:\Users\Usuario\Desktop\PROYECTOS 192.168.2.100\HalcoNET 5.8.0\Sistemas\obj\x86\Debug\Sistemas.pdb
